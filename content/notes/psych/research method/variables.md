@@ -36,13 +36,13 @@ unwanted influence on participant performance by the person carrying out the res
 
 ## ways to minimise confounding and/or confounding variables
 ### participant selection and allocation
-refer to [[types of sampling]]
+refer to [[notes/psych/research method/types of sampling|types of sampling]]
 - random allocation/assignment
 	- used to place participants in groups or conditions so they are as likely to be in one as the other
 
 ### counterbalancing
 involves systematically changing the order of treatment or tasks in a balanced way to counter unwanted effects on performance 
-- can somewhat control the effects of [[#identifying extraneous and/or confounding variables#order effect |order effect]]
+- can somewhat control the effects of [[notes/psych/research method/variables#order effect|order effect]]
 
 ### single/double blind procedures
 - single: whereby the participants are unaware of the condition of the experiment they are being allocated to
@@ -56,4 +56,7 @@ any type of inert (inactive) treatment. given to the control group to minimise [
 
 ### standardised procedures and instructions
 minimises [[#identifying extraneous and/or confounding variables#non-standardised procedures|non-standardised procedures]] ... self explanatory
+
+
+
 

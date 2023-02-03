@@ -16,7 +16,7 @@ title: "research designs"
 - same group of participants are exposed to two or more conditions and the conditions are compared
 - aka "in subject" designs
 	- <u>advantages:</u> can effectively control potential confounding variables
-	- <u>disadvantages:</u> [[variables#order effect |order effect]] where participants may get used to conditions (use [[variables#counterbalancing |counterbalancing]] to...counter this)
+	- <u>disadvantages:</u> [[notes/psych/research method/variables#order effect|order effect]] where participants may get used to conditions (use [[notes/psych/research method/variables#counterbalancing|counterbalancing]] to...counter this)
 
 ### cross-sectional studies
 - compares different groups of participants on one or more variables of interest at a single point in time
