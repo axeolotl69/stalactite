@@ -1,3 +1,5 @@
+find the [[notes/jpn/grammar/grammar|grammar]] here ... shudders
+
 ## term 1
 ### week 1
 - wrote [[notes/jpn/marugoto/introduction|introduction]]
