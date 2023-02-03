@@ -1,3 +1,6 @@
+---
+title: "japanese"
+---
 find the [[notes/jpn/grammar/grammar|grammar]] here ... shudders
 
 ## term 1

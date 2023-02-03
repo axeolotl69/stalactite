@@ -1,3 +1,6 @@
+---
+title: "grammar"
+---
 [[notes/jpn/grammar/て|て]] form
 
 [[notes/jpn/grammar/た|た]] form

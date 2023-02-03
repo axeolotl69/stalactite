@@ -1,3 +1,6 @@
+---
+title: "language and literature"
+---
 ## term 1 
 ### week 1
 - read [[notes/eng/book notes/the thing around your neck/!ttayn notes|the thing around your neck]] 
