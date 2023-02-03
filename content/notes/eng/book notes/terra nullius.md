@@ -1,3 +1,7 @@
+---
+title: "terra nullius"
+---
+
 -   chapter 1
     -   introduced to setting…somewhat
     -   two seperate povs kind of: one of the “natives” and the “settlers”
