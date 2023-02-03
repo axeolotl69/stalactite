@@ -12,4 +12,4 @@ each box 2-3 lines
 - [ ] make sure to hyperlink terms
 
 <mark style="background: #d95950;">eng</mark>
-- [ ] read thing around your neck
+- [ ] read thing around your neck + annotate
