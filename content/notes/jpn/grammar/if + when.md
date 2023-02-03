@@ -1,3 +1,6 @@
+---
+title: "if + when"
+---
 <mark style="background: #F94144;">と - event naturally and automatically follows</mark>
 plain form verb (not past)
 い-adj と、

@@ -1,3 +1,6 @@
+---
+title: "research designs"
+---
 ### independent samples/independent measures design
 - uses two separate group of participants, one is assigned to control and one is assigned to experimental or treatment condition
 	- <u>advantages:</u> very quick and easy and reduces participant attrition (loss), no order effects between conditions to control 

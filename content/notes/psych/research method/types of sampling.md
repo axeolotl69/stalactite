@@ -1,3 +1,6 @@
+---
+title: "types of sampling"
+---
 ### snowball sampling
 - participants help to recruit further participants
 	- "ask a friend to come" etc

@@ -1,3 +1,7 @@
+---
+title: "the memory police"
+---
+
 -   **chapter 1**
     -   introduces setting, loss of memory, and how some can retain it
     -   mc’s mother shows a few items which have been “disappeared” and explains each item to her daughter

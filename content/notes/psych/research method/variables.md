@@ -1,3 +1,6 @@
+---
+title: "variables"
+---
 <mark style="background: #4D908E;">IV</mark> - variable that is systematically manipulated or changed in some way by the researcher in order to measure its effect on the dependent variable
 
 <mark style="background: #4D908E;">DV</mark> -  variable that is used to observe and measure the effects of the independent variable, the aspect of a participant’s behaviour or experience that is assumed and expected to change as a result of the manipulation of the independent variable.

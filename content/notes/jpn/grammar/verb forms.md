@@ -1,3 +1,6 @@
+---
+title: "verb forms"
+---
 <mark style="background: #F94144;">how to make て form</mark>
 <u>る verbs</u>
 drop る + add て

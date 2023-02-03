@@ -1,3 +1,6 @@
+---
+title: "plain form"
+---
 ことができます。 be able to
 - 食べることができます。you are able to eat.
 

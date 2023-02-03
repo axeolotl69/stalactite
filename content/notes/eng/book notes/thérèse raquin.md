@@ -1,3 +1,7 @@
+---
+title: "thérèse raquin"
+---
+
 -   chapter 1
     -   boring intro
 -   chapter 2

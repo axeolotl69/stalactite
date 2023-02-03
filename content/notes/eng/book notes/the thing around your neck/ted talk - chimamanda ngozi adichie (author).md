@@ -1,3 +1,6 @@
+---
+title: "ted talk - chimamanda ngozi adichie (author)"
+---
 
 - chimamanda speaks of how there is never truly one story for a person, place or time, but even so we are often exposed to a singular perspective which shapes our vision on the world
 	- her american roommate who only knew one story of africa, like many others, who was surprised that chimamanda could speak english and read and use a stove
