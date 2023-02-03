@@ -1,0 +1,148 @@
+-   chapter 1
+    -   boring intro
+-   chapter 2
+    -   intro to therese, her cousin camille, and his mother
+    -   camille in his childhood was often sick and his mother loved him lots and took care of him and sent him to a good school
+    -   we learn that therese’s mother had died and her father dropped her off with her aunt (he refers to therese as “it” lol) and he dies later in africa
+    -   therese is treated well!!
+    -   camille has a lovely relationship with his cousin!! they even kiss!
+    -   they were meant to be married and they knew this since childhood…but camille never felt Romantic with her (good??)
+-   chapter 3
+    -   camille wants to go to paris and mme raquin (mother) hesitates at first but then is fine with it
+    -   therese doesnt get a word bcs she is passive!!
+    -   therese is miserable putting on an emotionless facade as mme raquin and camille live their lives
+    -   camille gets an office job and loves it! never leaves!
+    -   three years pass and therese is Tired Of This Bullshit
+-   chapter 4
+    -   every thursday the raquins have guests over; grivet (camilles boss in a sense) and oliver (son of mme’s old friend) and some others idk
+    -   basically Therese hates it and would rather spend time alone.
+    -   often she hallucinates that they’re like paper dolls or machines and she’s trapped with them
+-   chapter 5
+    -   camille introduces laurent, an old friend of his from vernon who now works in the same company as him
+    -   therese feels unsettled by his presence For Some Reason
+    -   laurent speaks of his work; his father intended for him to be a lawyer but he is lazy so he lied to him and now doesnt talk to him and he also paints
+-   chapter 6
+    -   laurent debates stealing therese from camille and ultimately decides that Though She Is Ugly, The Pros Outweigh The Cons
+    -   he finishes the painting of camille and it is ugly but camille likes it
+    -   laurent kisses therese Against her will…
+-   chapter 7
+    -   they fuck a lot !
+    -   therese opens up and becomes more daring
+    -   they both like it but laurent feels Uneasy
+    -   they manage to hide the affair Somehow
+-   chapter 8
+    -   therese is not bored anymore!
+    -   laurent now “fear[s] nothing except the end of this delightful existence”
+-   chapter 9
+    -   laurent cant meet up with therese anymore because of work oh no
+    -   therese meets him at his house at night.
+    -   they plan to murder camille?? so laurent can marry therese
+-   chapter 10
+    -   the two haven’t met for a while since they Plotted Murder
+    -   oooOoooOoohh so much tension
+    -   the Gang discuss the shocking fact that criminals are left uncaught by the police, how it’s impossible to incarcerate them all (irony)
+-   chapter 11
+    -   camille dragged therese along to walks and soon after laurent joins
+    -   on one particular walk, camille falls asleep, and therese pretends to, and laurent kisses her ankle(?) and then Almost kills camille but decides against it
+    -   then he Comes Up With A Plan
+    -   the Plan was to go on a boat ride and push camille into the river (camille is not good with water) and then pretend that laurent and therese had also fallen in. no one suspects a thing
+-   chapter 12
+    -   basically laurent fools Everyone
+    -   still no one suspects him, not even Old Michaud who was the police guy???
+    -   therese “comes down with a fever” - aka, she’s too afraid that if her lips part she’ll spill the truth
+    -   laurent feels as if his chest is lighter, he can rest calmly now
+-   chapter 13
+    -   laurent goes to the morgue every day for about a week to identify camille’s body
+    -   and finds camille’s body, disfigured, preserved, sickly
+    -   it’s buried and officially recognised
+-   chapter 14
+    -   therese Gets Up from her fever and kinda reminds mme raquin of Life
+    -   they reopen the shop wowoow
+    -   it seems like the time that both of them had taken in bed had aged them somewhat
+-   chapter 15
+    -   thursday night meetings resume.
+    -   mme raquin starts bawling in the middle because camille’s spot is empty (understandably) and old michaud kinda just tells her to Stop and his children are like yeah wtf don’t make us sad, everyone dies eventually
+    -   laurent is happy that therese’s body and soul is still his
+-   chapter 16
+    -   fifteen months pass
+    -   the Lovers stop meeting, haven’t met after camille’s death, as if murder had satisfied or quelled their lust
+    -   therese when working Falls In Love with some random pale ass student who Reads. he stops coming to their shop and she Forgets about him
+    -   but!! now she reads yippeee
+    -   laurent visits an old schoolfriend who is painting and the model is a naked woman. laurent proceeds to have her as a mistress for a Year. she falls in love (unrequited) and it did not occur to him that he was being unfaithful to therese
+    -   ok said naked woman leaves him abruptly we Don’t Know Why but whatever
+    -   laurent decides that if he doesn’t marry therese, camille’s murder would’ve been a waste and then therese could rat him out
+    -   so he Finally confronts her and she says yea lets get married
+-   chapter 17
+    -   their urges from before came back
+    -   laurent drinks wine and then gets Insomnia
+    -   his bite becomes worse???? question mark
+    -   therese also had insomnia
+-   chapter 18
+    -   therese and laurent try to implant the idea of remarriage into those around them so that when they do end up marrying it won’t seem suspicious
+-   chapter 19
+    -   and their plan works
+    -   therese tells mme that she’s lonely and crying blablabla and obviously mme doesn’t want to lose another child so she asks old michaud who says She Needs A Husband
+    -   mme raquin initially feels as if camille is being killed a second time, but grows to accept it - therese’s happiness is ultimately to her benefit, her own joy
+    -   old michaud and mme raquin talk to laurent and therese respectively about their marriage and both pretend to love the other like a sibling before accepting the marriage with hesitation
+    -   woooooo marriage
+-   chapter 20
+    -   wedding’s here
+    -   uhhhh laurent and therese no longer have the feverish feelings they once had idk
+    -   solemn wedding
+-   chapter 21
+    -   suffice it to say the night after their wedding was Not good
+    -   they definitely don’t feel as they once did
+    -   laurent blames therese for the “supernatural air”
+    -   and threatens to kill the cat francois
+    -   and barely recognises the portrait he painted of camille hanging in their bedroom…
+-   chapter 22
+    -   so they’re terrified of touching each other
+    -   therese is scared of laurent being in camille’s place
+-   chapter 23
+    -   them being together is so unhappy wtf
+    -   therese kisses laurent’s wound as if kissing camille’s teeth
+-   chapter 24
+    -   the “lovers” lead a double life; scared when by themselves, the model couple elsewhere
+    -   mme raquin ages and is slowly getting more ill with time - the two are scared of losing her, the one thing that keeps them apart, so they try to call all sorts of doctors in
+-   chapter 25
+    -   laurent quits his job and begins painting in a studio
+    -   they sort out the budget blablabla therese makes him agree to not go over his allowance
+    -   he draws a few portraits and they all resemble camille Oh No
+-   chapter 26
+    -   mme raquin has a stroke and Cannot Move Or Talk
+    -   at first mme is happy that she’s dying in peace, surrounded by caring loved ones
+    -   and then when therese and laurent forget that she’s even there, they let slip all the horrors regarding their relationship, regarding camille
+    -   she is No Longer Happy
+    -   “my child was killed by my children” ouch.
+    -   i actually feel so bad for her. she really did her best
+-   chapter 27
+    -   mme attempts to tell everyone one thursday about what therese and laurent did by using the last of her strength to write on a cloth
+    -   but they didn’t get the message, instead interpreting it as “therese and laurent are taking good care of me”
+    -   i sympathise most with mme raquin tbh.
+-   chapter 28
+    -   laurent and therese fight every evening and mme raquin can only sit and watch
+    -   they blame each other for camille’s death, therese saying she’s innocent while laurent says they should share the blame
+    -   and when laurent raises a hand to her face, “a bright spark of joy glowed” in mme raquin’s eyes?????? hm
+-   chapter 29
+    -   therese begins begging for forgiveness in front of mme raquin, who feels anything but pity towards her
+    -   suffice it to say she wants vengeance but cannot exact it
+    -   at some point therese Thinks mme has forgiven her from the look of her eyes and it disgusts mme raquin when this happens
+    -   then therese starts saying she loved camille and idk if she is missing what she had or smth else
+    -   laurent abuses therese…
+-   chapter 30
+    -   therese fears she has a pregnancy and as laurent is beating her up she offers her belly. next day she has a miscarriage wtf
+    -   LAURENT KILLED THE FUCKING CAT OH MY FUCKIGN GODDD
+    -   mme raquin mourns for francois as she mourned for camille
+-   chapter 31
+    -   laurent asks for 5000 franc and therese admits defeat after a fight
+    -   they both get so angry they plot to murder one another; laurent, using poison, and therese, with a sharpened kitchen knife
+-   chapter 32
+    -   uhhhh
+    -   therese goes to make sugar water and laurent is like “noooo i’ll do it” and therese hides the knife in her pocket and then They Both Catch Each Other Trying To Kill The Other and start bawling and therese and laurent take half of the poisoned water each??
+    -   mme raquin watches and ykw good for her. she wants to watch them suffer which is so valid
+
+**themes**
+-   love … or lack thereof
+-   passion
+-   deception
+-   consequence

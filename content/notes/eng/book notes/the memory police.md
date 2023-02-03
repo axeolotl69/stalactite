@@ -1,0 +1,192 @@
+-   **chapter 1**
+    -   introduces setting, loss of memory, and how some can retain it
+    -   mc’s mother shows a few items which have been “disappeared” and explains each item to her daughter
+    -   mc is unable to fathom the concept of each item, hence “disappearance”
+    -   chapter ends with foreshadowing and mc asking her mother why she can remember these things
+-   **chapter 2**
+    -   mc has little to no family left; mother and father died, other relatives/guardians either deceased or far away
+    -   father was orinthologist (study of birds) and fortunately passed away before said birds were disappeared
+    -   mc describes how when the brids were disappeared, their absence were felt, even when she was looking straight at a bird
+        -   item loses meaning and purpose, rather than physical form
+    -   after his death, memory police ransack his office in search for things, presumably bird related, to dispose of
+-   **chapter 3**
+    -   mc’s occupation as a writer
+    -   introduced to old man, her nurse’s husband, who lives in an old boat
+-   **chapter 4**
+    -   15 years since memory police first appeared
+    -   memory police arresting four people
+    -   introduced to R, her editor
+    -   rumour that memory police are assessing genetic traits and links about those who can remember things which have been disappeared
+    -   introduces first aspect of political themes, how those in power intend to control everything including what is and isn’t remembered
+    -   foreshadowing the disappearing of words/text, which is the backbone of mc’s career and life
+-   **chapter 5**
+    -   inui family appear at mc’s doorstep, asking to return her mother’s sculptures
+    -   they’re about to go into a safehouse because the memory police have summoned them
+    -   they vanish at the end of the chapter
+    -   we learn that mc’s mother also received a summon from memory police, and once she followed them she only came back dead
+-   **chapter 6**
+    -   introduction to mc’s current manuscript, girl with typewriter
+    -   flowers are disappeared
+    -   end of chapter mc can’t imagine what a flower looks like anymore
+    -   everyone is desensitised to things being disappeared they don’t even seem sad/distraught/confused about it
+-   **chapter 7**
+    -   the ferry was disappeared a while ago and we learn that the old man, who was a sailor or smth, wasn’t even upset about it
+    -   just kinda feels empty
+-   **chapter 8**
+    -   we read more about mc’s writing, and the girl inside the story having such a lovely relationship with her typewriter teacher…
+    -   mc and R talk about the script, then her mother and father
+    -   mc brings R to the basement where her mother kept all these items that were disappeared
+    -   R reveals that he remembers everything
+-   **chapter 9**
+    -   memory police have become more brutal, with no warning before taking people away
+    -   people vanishing has become more common
+    -   mc tells the old man about R, asking for help to hide him
+    -   they begin making the room ready for R to live in, concern and nervousness weighing on mc’s mind
+-   **chapter 10**
+    -   they bring R to the house with some elaborate (but worth it) plan
+    -   he goes into the basement wow!
+-   **chapter 11**
+    -   10 days passed
+    -   R, and mc, aren’t accustomed to this new way of living
+    -   mc talks to the “new editor”, and discusses R’s disappearance with him
+    -   old man visits R’s wife, who is a little confused but holding strong
+    -   mc and R discuss what it’s like to remember everything, or to remember nothing
+-   **chapter 12**
+    -   in mc’s novel, explores how the girl met her typewriter teacher + the relationship they had when she could still speak
+    -   R asks for more jobs to do other than read mc’s manuscript bcs it’s a little boring ig being stuck underground all day
+    -   two more disappearances after roses: photographs and fruits (giggles)
+    -   R tries to get mc to keep the photographs rather than burn them, but she says “the new cavities in my heart search for things to burn.”
+    -   he seems distressed by this but wtv
+    -   fruits disappear very normal
+-   **chapter 13**
+    -   old man is taken by memory police
+    -   mc worries, R comforts her
+    -   she goes to memory police office and asks to visit him, they deny it
+    -   she drinks some weird tea (probably drugged) and fills out a form
+    -   mc tells R about how she once took a bunch of sleeping pills when she was younger so she could sleep forever but it Didn’t Work
+-   **chapter 14**
+    -   3 days later old man returned; he was brought in because they thought he had something to do with some boat smuggling recently
+    -   R’s baby is born!!
+    -   mc and R talk, about ppl who became mute from polishing silver all day for an income
+    -   mc gives the things to R about his child, he remains quiet and solemn
+-   **chapter 15**
+    -   we read more of mc’s story; girl’s typewriter broke, then the teacher brings her up to the clocktower and traps her there! reveals that he wanted to trap her voice inside the typewriter all along
+    -   he has a sort of insane/maniac vibe
+    -   calendars are disappeared—and with it, so it seems, are seasons. they are stuck in eternal winter now
+-   **chapter 16**
+    -   old man’s birthday!!
+    -   they do a modest celebration, mc gives him a shaving set while R gives him a music box (orugooru); these have been disappeared for a while
+    -   oh no!! doorbell rings!! memory police.
+-   **chapter 17**
+    -   memory police come, search the house, burn a datebook, leave
+    -   corner of the rug hiding the door to the hidden room was turned, but they didn’t notice that
+    -   mc’s neighbours are taken away by memory police
+    -   mc cries into R’s arms and they kiss ewwwwww
+-   **chapter 18**
+    -   we read more of mc’s story; girl just stays in tower now and is dependent on teacher who treats her however he likes
+    -   mc listens to R cleaning himself (weird)
+-   **chapter 19**
+    -   several weeks passed since bday party
+    -   random old woman asks mc for hiding place, she declines, woman vanishes a week later
+    -   mc takes care of neighbour’s dogs (ones that got taken away)
+    -   some of her neighbours stayed over her house for a night bcs of renovations or smth and she was scared R would be found out (he wasnt)
+    -   uh oh novels disappeared!
+    -   mc feels like her soul is deteriorating, the bond between her and R being cut
+    -   he urges her to keep each novel but she thinks there’s no use
+    -   mc and old man go outside, one woman starts protesting against burning books (burning books referencing nazi germany?) and the memory police drag her
+    -   mc asks “what if human beings disappear?” old man replies “we die anyways lol don’t worry about that. leave things to fate”
+    -   library burns
+    -   mc has a brief moment of nostalgia/deja vu, as she watches the pages of a book flutter away just like a bird once did, though she forgets shortly after
+-   **chapter 20**
+    -   mc finds a new job as a typist for some spices company
+    -   goes in depth into how mc can still read words, but the words no longer have any coherent meaning to her—stories are just words, no plot tying them together
+    -   she tries writing but she can’t; ends up repeating a i u e o on the page instead
+    -   old man goes “are you in love with him” and mc goes “yeah” (…he has a wife and kids but ok)
+    -   “I think he’ll be able to live only in the hidden room. His soul is too dense. If he comes out, he’ll dissolve into pieces, like a deep-sea fish pulled to the surface too quickly. I suppose my job is to go on holding him here at the bottom of the sea.”
+    -   chapter ends with the start of an earthquake.
+-   **chapter 21**
+    -   after earthquake old man urges for mc to leave him behind; she doesn’t
+    -   then a tsunami comes and takes away old man’s ferry (the one he lives in)
+    -   he also gets a knock to the head (foreshadowing)
+    -   don the dog survives!
+    -   R is ok in the basement
+-   **chapter 22**
+    -   “town never completely recovered”
+    -   old man came to live with mc
+    -   they began fixing the house post-earthquake
+    -   they find disappeared items inside mc’s mother’s statues; a harmonica, ramune candy, a ferry ticket
+    -   mc remembers the sensation of the ferry ticket but not really the actual concept itself
+    -   it seems like she wants to remember enough to satisfy R, while R just wants her to remember anything
+    -   R brings her through the rest of the items, playing the harmonica and letting her have some ramune
+    -   he tells her stories about the items
+-   **chapter 23**
+    -   mc and old man go to her mother’s cabin to bring back more items
+    -   but oh no!! they’re checking bags at the train station!!
+    -   old man says don’t worry i got this
+    -   some woman collapses and that means the bag checks stop and they only have to collect papers
+    -   phew!
+    -   they’re eating but old man is out of it, as if he briefly lost consciousness
+-   **chapter 24**
+    -   they show R everything, he’s very happy about it
+    -   “you two are the ones who need these memories, not me”
+    -   the dog gets sick. just a minor infection he’s fine now
+    -   old man gives R a haircut lol
+    -   mc…talks with old man…for the last time… but she doesn’t know that :(
+-   **chapter 25**
+    -   wahhhh old man’s funeral :(
+    -   he died of a hemorrhage in the brain caused during the earthquake
+    -   mc found it hard to cope with this death specifically
+    -   to cope with her anxiety/stress at night, mc looks and fiddles with the disappeared items, and occasionally there are brief moments where they would show her something more—but that was the extent of it
+    -   she starts writing again, and for once actually writes something coherent!! yipee
+    -   R is joyed by this
+    -   …first disappearance since death of old man…left legs.
+    -   literally it’s terrifying to read because mc treats it like a foreign parasite, unable to move it, unable to do anything with it. she can’t move her legs, can’t fathom the idea of walking with both, yet struggles to walk regardless. her right leg is still There and her left leg is still There but she knows she has a right leg but not her left leg and that’s freaky
+    -   because usually things either disappear on their own, or everyone destroys it manually, everyone’s confused as to what to do. initially they think it’ll just rot and fall off, or they’ll have to chop it off, but this is similar to old man’s ferry in the sense that the object is still There, but its purpose and meaning has dissolved
+    -   it’s also the first body part which is terrifying actually
+    -   even the dog’s left back leg is unused
+    -   R kisses the leg but she can barely feel it
+-   **chapter 26**
+    -   they grow accustomed to living “without legs” which scares me because your legs are right there??? you can still use them?? it’s like they’re paralysed but at least paralysed legs still hold meaning, but these don’t?? they’re like meaningless dangly things wtf
+    -   it also means that ppl couldn’t hide if they remembered left legs, because it’s hard to fake a limp and stuff. which makes me wonder whether whoever the memory police are actually did this on purpose
+    -   new communication with R’s wife: let the phone ring three times, three times back if R is doing well
+    -   mc continues writing
+    -   she feels sad about old man’s death, scared of losing her memories of him
+    -   now right arms are disappeared! people not as scared because a limb has disappeared once before already…this terrifies me further because they’re already so desensitised to things disappearing even something so crucial to every day life
+    -   something that i find interesting is this: mc says that she’ll soon be no longer able to get down to his room, because of limbs disappearing, and R says that it’s okay because he’ll carry her like a princess. but then she says “how can you hold something that’s not there?” and it means that she truly cannot fathom the idea of her limbs anymore. like even if they are right in front of her, they’re not ******there.****** and that is, once again, terrifying
+    -   she describes each disappeared thing as illusions—her limbs aren’t really hers, they’re just shells
+-   **chapter 27**
+    -   in mc’s story again
+    -   girl hears someone else coming up, but she doesn’t ask for help. why? because she’s dependent on the guy already, she’s scared of going outside
+    -   and he knows that and uses that to his advantage, as he tries to steal another girl’s voice
+    -   he brings someone else up the tower—the girl—and now the protagonist is saying “this is the final moment” but i have no clue what that means
+-   ********************chapter 28********************
+    -   i’m very surprised mc managed to write all of that, considering she’s now left handed and novels are disappeared
+    -   “it’s fortunate that old man died before body parts were disappeared because i can still remember the feeling of his hand in mine” what if i sob
+    -   more body parts are disappeared, some people are glad about fewer parts to manage…
+    -   mc is worried about where her tears would go if cheeks disappeared LORD
+    -   “the citizens of the island had lost everything that had a form, and our voices alone drifted endlessly.”
+    -   everyone disappears. R climbs out of room. the end
+
+**themes**
+-   love
+-   loss
+-   memory
+-   heirarchy
+
+**questions**
+-   who’s behind the disappearances? because clearly it’s both a mind thing _**and**_ a physical thing, if fruits and flowers and birds literally disappear, but also lose meaning to the individual
+-   what makes mc’s mother and R different from everyone else? why can they remember but others can’t?
+-   who’s in charge of the memory police; are they causing the disappearances or are they simply going along with it, treating it as some sort of religion?
+-   why does mc never refer to old man by his name…unless he doesn’t have one?
+-   is R really called R ..
+-   and why is mc’s name never revealed? is it just not important
+-   what significance do all these water metaphors have
+-   it also means that ppl couldn’t hide if they remembered left legs, because it’s hard to fake a limp and stuff. which makes me wonder whether whoever the memory police are actually did this on purpose
+-   are there any parallels from mc’s story which she was writing, and her and R’s story? because if so, does that mean R was the one disappearing things, to trap mc in the room with him…because when mc says she’s going to disappear, telling R to just leave her, he climbs out and shuts the door and rolls the rug?? is this a good thing or a bad thing i cannot tell what the fuck
+-   at the end, did the memory police lose their form too? because mc never talked about that…were they just like everyone else. or did they remember things.
+
+**thoughts**
+-   i am terrified when they start losing limbs because things just lose Meaning and Purpose and what demonstrates this best are the disappearances of limbs
+-   i have two opinions:
+    -   one. memory police _**are**_ causing disappearances purposefully, a way to control everyone’s minds. one reason i say this is because they start to disappear things that’ll make it easier for them to find people who remember—books, limbs etc
+    -   but then, why would they allow people’s bodies in their entireity to disappear? what is a nation without it’s people? and because of unreliable narration, we don’t know whether the memory police are also losing their bodies or not, so we don’t know if they remember or not. i think they _**do**_ remember, because they’re told to go and find and destroy things related to items which have been disappeared, but who knows? i also believe they’re just going along with the flow, believing this to be some sort of god-like event.
