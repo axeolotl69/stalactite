@@ -1,12 +1,6 @@
 ---
 title: "cas ideas"
 ---
-
-**contact for supervisor**
-michelle pride
-title - cas supervisor
-michelle.pride@macrob.vic.edu.au
-
 ## ideas
 **creativity**
 - [ ] crochet cat beanie [here](https://www.youtube.com/watch?v=QFPQ5murojA&ab_channel=DayannaCelaya) or you could knit it idk
