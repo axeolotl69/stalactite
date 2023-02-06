@@ -3,8 +3,9 @@ title: "cas ideas"
 ---
 ## ideas
 **creativity**
-- [ ] crochet cat beanie [here](https://www.youtube.com/watch?v=QFPQ5murojA&ab_channel=DayannaCelaya) or you could knit it idk
+- [ ] knit cat beanie yass
 - [ ] take photos outside
+- [ ] vocaloid.
 
 **activity**
 - [ ] go walking
