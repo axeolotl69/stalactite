@@ -2,5 +2,22 @@
 title: "!ttayn notes"
 ---
 
-- 
-
+- cell one
+	- mc's brother nnamabia is the favourite child naughty kid who once faked his mother's jewelery being stolen so he could sell it himself
+	- his mother is so favouritism to him and not to mc
+	- literally his punishment was to. write a report
+	- apparently many boys his age do this where mc is from and they're popular
+	- three years later he'd end up in prison Lol
+	- cults are prevalent in the story and mc wonders whether nnamabia is in one
+	- she asks "are you in a cult" and he says "of course not" as they're walking. to the police station because the police think he's in a cult
+	- a shooting happened with some cult members during the day and there was a curfew. nnamabia did not meet the curfew and later got arrested
+	- erm apparently he slipped money up his ass so that he'd have some in jail???
+	- father says that he's different in jail, that it's shaken him; mc doesn't see it
+	- nnamabia has nightmares about Cell One, which is supposedly the worst cell
+	- ok so one day mc is like "how about we Don't visit nnamabia for once" because it takes too much petrol. and it turns into a fight so much so that mc chucks a stone at a car window, both her parents angry at her now - juxtaposed to how they react when nnamabia is in Literal Jail
+	- mc sees this as a victory
+	- nnamabia is showing signs of empathy!! there's an old guy in jail because his son is wnated but they can't find him (wow so justice) and he feels bad for the guy because "he did nothing wrong" and then his mother is like "but so did you" and LMFAOAOO
+	- next day nnamabia is to be released but when they go to pick him up apparently he's been transferred cuz he misbehaved and got put in cell one and then ppl in cell one got transferred
+	- "misbehave" he stood up for the old man god bless anyways nnamabia is okay now the end
+- imitation
+	- 
