@@ -49,7 +49,7 @@ involves systematically changing the order of treatment or tasks in a balanced w
 	- helps control [[#identifying extraneous and/or confounding variables#placebo effect|placebo effect]]
 	- cannot always be done
 - double: whereby participants and the researcher are unaware to the conditions the participants are exposed to; only researchers removed from the research itself know
-	- helps control placebo effect + experimenter effect + experimenter bias
+	- helps control placebo effect + experimenter effect + [[notes/psych/research method/quantitative research methods#researcher bias|experimenter bias]]
 
 ### placebos
 any type of inert (inactive) treatment. given to the control group to minimise [[#identifying extraneous and/or confounding variables#placebo effect|placebo effect]], because it allows both/all groups to have the same expectations
