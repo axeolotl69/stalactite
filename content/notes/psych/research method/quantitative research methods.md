@@ -1,6 +1,7 @@
 ---
 title: "quantitative research methods"
 ---
+
 - experiments are most widely used
 - <u>goal:</u> to determine whether a cause-and-effect exists between two variables
 
