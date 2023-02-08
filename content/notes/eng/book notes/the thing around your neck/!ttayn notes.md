@@ -20,4 +20,23 @@ title: "!ttayn notes"
 	- next day nnamabia is to be released but when they go to pick him up apparently he's been transferred cuz he misbehaved and got put in cell one and then ppl in cell one got transferred
 	- "misbehave" he stood up for the old man god bless anyways nnamabia is okay now the end
 - imitation
-	- meow
+	- mc nkem is on call with her friend ijemamaka, who casually drops the news that her husband obiora has a girlfriend. from her tone it seems like this is normalised, mentioning that "this is what happens when you marry a rich man", but nkem is still surprised
+	- she is a mother to multiple children, moved to america bcs Rich Men
+	- she feels possessive of obiora in a sense
+	- has a conversation with their "houseworker" of sorts, amaechi, and she says "you've known he's had girlfriends all along" or smth
+	- nothing much happens tbh except obiora comes home and nkem washes his back (mitski) saying "we're moving back to lagos!" and he's like "hahhaha What"
+- a private experience
+	- insert here
+- the shivering
+	- ukamaka is a nigerian woman in college, worrying over a major plane crash in nigeria, as she believes that her ex, udenna, might have been aboard it 
+	- chinedu makes himself known as a fellow nigerian in her apartment suite and asks if they can pray together, ukamaka later telling him that she’s worried because her ex might have been on the flight. fortunately, through a call, she finds that he had missed his flight and is safe. 
+	- their friendship develops, driven mostly by ukamaka “need to rant” about her ex to chinedu 
+	- they discuss from the beginning to the end of the text about faith, specifically towards god - ukamaka is catholic and chinedu is pentecostal, though it seems his faith is a lot stronger than hers chinedu is an ambiguous character- unknown at first but slowly he reveals more about himself 
+	- once ukamaka relates chinedu’s struggles with love to her own, mentioning udenna once again, he snaps somewhat, and she tells him to get out of her apartment. 
+	- for a week they cut contact with each other
+	- ukamaka knocks on chinedu’s door to apologise 
+	- incapable of finding the words, ukamaka instead asks if chinedu is working on a dissertation, to which he replies that he is busy before closing the door on her face 
+	- they go another week without contact until the following sunday when ukamaka showed up at chinedu’s door and apologised 
+	- chinedu opens up to ukamaka and tells her that is he at risk of deportation since his visa expired three years ago 
+	- ukamaka shows puzzle which grows into admiration for chinendu’s faith 
+	- they go to mass together the enddddd
