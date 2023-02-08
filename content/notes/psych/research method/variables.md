@@ -46,7 +46,7 @@ involves systematically changing the order of treatment or tasks in a balanced w
 
 ### single/double blind procedures
 - single: whereby the participants are unaware of the condition of the experiment they are being allocated to
-	- helps control [[#identifying extraneous and/or confounding variables#placebo effect|placebo effect]]
+	- helps control [[notes/psych/research method/variables#placebo effect|placebo effect]]
 	- cannot always be done
 - double: whereby participants and the researcher are unaware to the conditions the participants are exposed to; only researchers removed from the research itself know
 	- helps control placebo effect + experimenter effect + [[notes/psych/research method/quantitative research methods#researcher bias|experimenter bias]]
