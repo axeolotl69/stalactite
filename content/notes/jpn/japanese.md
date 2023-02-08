@@ -8,4 +8,6 @@ find the [[notes/jpn/grammar/grammar|grammar]] here ... shudders
 - wrote [[notes/jpn/marugoto/introduction|introduction]]
 - planned for exchange events (somewhat lmao)
 ### week 2
-- 
+- did [[notes/jpn/marugoto/twitter feed table|twitter feed table]]
+- learnt a little about [[notes/jpn/vocab/idioms|idioms]]
+### week 3
