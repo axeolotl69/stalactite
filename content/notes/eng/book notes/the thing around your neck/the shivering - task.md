@@ -1,3 +1,15 @@
 ---
 title: "the shivering - task"
 ---
+**Style – HOW** 
+<mark style="background: #90BE6D;">Identify the author’s key storytelling strategies </mark>
+-   The author’s use of imagery is used throughout the text to allow readers to have a clear understanding of how characters feel and their interactions. Various paragraphs dedicated to explaining “The Shivering” Ukamaka feels helps to create an atmosphere which communicates just how otherworldly her faith is. 
+-   repetition of ideas; Chinedu and his religious beliefs, Ukamaka and Udenna. The repetition throughout the text of these characters paired with something else creates a correlation between them
+
+<mark style="background: #90BE6D;">How do narrative techniques shape the reader’s understanding of a story? Identify narrative techniques in the text which may influence a reader’s understanding</mark>
+-   The story is introduced through the perspective (in third person) of Ukamaka, so our view of Chinedu is largely influenced by hers. This allows the mystery surrounding him, along with any developments about his character, to be as natural as if we were meeting him ourselves. The ideas the readers are introduced to are thoughts that Ukamaka has, which shapes our perception of Chinedu and his character.
+-   In saying this, with how often Ukamaka speaks of and thinks of Udenna, we can sympathise with Chinedu in his questioning towards the end of the story when he says “...not everything is about Udenna.”
+
+<mark style="background: #90BE6D;">How do texts and literary works express the values and beliefs of a society? Annotating and discussing semantics of specific phrases that reflect society’s beliefs and values. When discussing, include both/opposite points of view; differing perspectives; devil’s advocate etc to expand thinking For this task, note any disagreements between characters, or conflicts between characters and their societies. Also identify any moments at which the author or narrator conveys a value judgement or point of view.</mark>
+-   While Ukamaka hasn’t gotten over her ex, claiming that she was “loving an asshole” (Udenna), Chinedu challenges this with his own beliefs of what she might be experiencing, likely because he could relate to it somewhat. “Udenna did this to you and Udenna did that to you, but why did you let him? … Have you ever considered that it wasn’t love?”
+-   There’s also a difference between their faith in their religion. Ukamaka describes Chinedu’s faith with the phrase: “Your faith, it’s almost like fighting.”, and she believes that it’s a luxury to have a faith as uncritical, forceful, and impatient as his. Meanwhile Ukamaka’s faith is more shaky and more questioning, explaining how “the shivering” sometimes appears when she prays, almost a scary experience—hence the title of the story.
