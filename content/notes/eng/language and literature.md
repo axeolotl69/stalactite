@@ -8,4 +8,4 @@ title: "language and literature"
 ### week 2
 - started+completed [[notes/eng/book notes/the thing around your neck/the shivering - task|the shivering - task]] in partners (setareh)
 - read all of [[notes/eng/book notes/the thing around your neck/!ttayn notes|the thing around your neck]] 
-- learnt [[notes/eng/acronyms|acronyms]] 
+- learnt [[notes/eng/acronyms#sentence types|sentence types]] and [[notes/eng/acronyms#analysis structure|analysis structure]] 
