@@ -20,3 +20,27 @@ title: "idioms"
 私と姉は瓜二つです。
 - "my sister and i are <mark style="background: #90BE6D;">two peas in a pod</mark> (we're the same)"
 
+私の弟は女の子にひっぱりだこです。
+- "my little brother is <mark style="background: #90BE6D;">very popular</mark> with girls (attracts/is popular with)"
+
+雨がふろうとやりがふろうと、勉強します。
+- "<mark style="background: #90BE6D;">no matter what happens</mark>, i study. (even if the rain and spears fall??)"
+
+出るくいはうたれる
+- "don't try to stick out (<mark style="background: #90BE6D;">the nail that sticks out gets hammered in</mark>)"
+
+白い目でみられました。
+- "turning a cold shoulder (<mark style="background: #90BE6D;">i saw it with white eyes</mark>)"
+
+いわぬが花
+- "<mark style="background: #90BE6D;">some things are better left unsaid</mark> (silence is gold)"
+
+はねをのばす
+- "<mark style="background: #90BE6D;">relax</mark> (stretch your wings)"
+
+私の父はかおが広いです。
+- "<mark style="background: #90BE6D;">my father is well known</mark> (broad face)"
+
+穴があったら入りたい
+- "<mark style="background: #90BE6D;">i'm so embarassed</mark> (i want to climb into a hole)"
+

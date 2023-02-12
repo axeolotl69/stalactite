@@ -23,3 +23,11 @@ take off る+ add ない
 change last sound to あ sound.
 歩く→歩かない
 言う→言わない
+
+<mark style="background: #90BE6D;">how to make せ form</mark>
+<u>る verbs</u>
+replace る with られる
+食べる→食べられる
+<u>う verbs</u>
+change sound to う + add る
+言う→言える
