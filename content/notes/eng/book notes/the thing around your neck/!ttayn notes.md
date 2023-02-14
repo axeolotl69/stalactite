@@ -22,16 +22,27 @@ title: "!ttayn notes"
 		- "matter of fact" voice since the narrator is younger, limiting view of the story
 		- mother's bias towards nnamabia could be a cultural thing
 - imitation
-	- mc nkem is on call with her friend ijemamaka, who casually drops the news that her husband obiora has a girlfriend. from her tone it seems like this is normalised, mentioning that "this is what happens when you marry a rich man", but nkem is still surprised
+	- mc nkem is on call with her friend ijemamaka, who casually drops the news that her husband obiora has a girlfriend. from her tone it seems like this is normalised, mentioning that “this is what happens when you marry a rich man”, but nkem is still surprised
 	- she is a mother to multiple children, moved to america bcs Rich Men
 	- she feels possessive of obiora in a sense
 	- has a conversation with their "houseworker" of sorts, amaechi, and she says "you've known he's had girlfriends all along" or smth
 	- nothing much happens tbh except obiora comes home and nkem washes his back (mitski) saying "we're moving back to lagos!" and he's like "hahhaha What"
 	- **notes from panel:**
 		- it can be viewed as nkem finding herself and realising how women are treated in their culture
-		- 
+		- prior to this she had almost denied her past
+		- the title “imitation” is both a reference to a perfect imitation of a mask his husband gave her, and how nkem is trying to imitate what a big man's wife *should* look like. she also describes her white neighbours as “plastic”, yet she herself leads a life similar to theirs
+		- the whole story is about nkem reflecting on her life choices
 - a private experience
-	- insert here
+	- chika who goes to visit her aunty but there's a riot
+	- during this she separates with her sister, who is never seen again
+	- muslim woman offers shelter, they both bond
+	- chika (who is studying med) helps the woman with some health issues
+	- kind of about how chika and the woman are separated by christianity and islam, and though the people around her talk badly about the muslim people she remembers this one experience she had with a kind muslim lady
+	- **panel notes:**
+		- chika in the beginning almost pities the woman, rather than look down on her
+		- chika feels very alienated from this situation, she's only seen riots in films, but the woman acts like this happens often. this shows a large difference in both their lives
+		- they both bond over the loss of a loved one; chika lost her sister, the woman lost her daughter
+		- it's sort of about overcoming the bias that media and social stereotypes put on various social groups, in this case islam, and how these humane experiences in the middle of such inhumane circumstances can really stand out
 - the shivering
 	- ukamaka is a nigerian woman in college, worrying over a major plane crash in nigeria, as she believes that her ex, udenna, might have been aboard it 
 	- chinedu makes himself known as a fellow nigerian in her apartment suite and asks if they can pray together, ukamaka later telling him that she’s worried because her ex might have been on the flight. fortunately, through a call, she finds that he had missed his flight and is safe. 
