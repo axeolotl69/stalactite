@@ -7,8 +7,12 @@ title: "grammar"
 
 [[notes/jpn/grammar/ない|ない]] form
 
+[[notes/jpn/grammar/え|え]] form
+
 [[notes/jpn/grammar/verb forms|verb forms]]
 
 [[notes/jpn/grammar/plain form|plain form]]
 
 [[notes/jpn/grammar/if + when|if + when]]
+
+

@@ -1,7 +1,6 @@
 ---
 title: "!ttayn notes"
 ---
-
 - cell one
 	- mc's brother nnamabia is the favourite child naughty kid who once faked his mother's jewelery being stolen so he could sell it himself
 	- his mother is so favouritism to him and not to mc
@@ -19,12 +18,18 @@ title: "!ttayn notes"
 	- nnamabia is showing signs of empathy!! there's an old guy in jail because his son is wnated but they can't find him (wow so justice) and he feels bad for the guy because "he did nothing wrong" and then his mother is like "but so did you" and LMFAOAOO
 	- next day nnamabia is to be released but when they go to pick him up apparently he's been transferred cuz he misbehaved and got put in cell one and then ppl in cell one got transferred
 	- "misbehave" he stood up for the old man god bless anyways nnamabia is okay now the end
+	- **notes from panel:**
+		- "matter of fact" voice since the narrator is younger, limiting view of the story
+		- mother's bias towards nnamabia could be a cultural thing
 - imitation
 	- mc nkem is on call with her friend ijemamaka, who casually drops the news that her husband obiora has a girlfriend. from her tone it seems like this is normalised, mentioning that "this is what happens when you marry a rich man", but nkem is still surprised
 	- she is a mother to multiple children, moved to america bcs Rich Men
 	- she feels possessive of obiora in a sense
 	- has a conversation with their "houseworker" of sorts, amaechi, and she says "you've known he's had girlfriends all along" or smth
 	- nothing much happens tbh except obiora comes home and nkem washes his back (mitski) saying "we're moving back to lagos!" and he's like "hahhaha What"
+	- **notes from panel:**
+		- it can be viewed as nkem finding herself and realising how women are treated in their culture
+		- 
 - a private experience
 	- insert here
 - the shivering

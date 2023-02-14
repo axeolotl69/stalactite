@@ -10,4 +10,5 @@ find the [[notes/jpn/grammar/grammar|grammar]] here ... shudders
 ### week 2
 - did [[notes/jpn/marugoto/twitter feed table|twitter feed table]]
 - learnt a little about [[notes/jpn/vocab/idioms|idioms]]
+- learnt various grammar (～といいな、～ばと思っている)
 ### week 3
