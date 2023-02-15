@@ -43,6 +43,7 @@ title: "!ttayn notes"
 		- chika feels very alienated from this situation, she's only seen riots in films, but the woman acts like this happens often. this shows a large difference in both their lives
 		- they both bond over the loss of a loved one; chika lost her sister, the woman lost her daughter
 		- it's sort of about overcoming the bias that media and social stereotypes put on various social groups, in this case islam, and how these humane experiences in the middle of such inhumane circumstances can really stand out
+		- gives us a new perspective into the religious aspect and political aspect of nigeria
 - the shivering
 	- ukamaka is a nigerian woman in college, worrying over a major plane crash in nigeria, as she believes that her ex, udenna, might have been aboard it 
 	- chinedu makes himself known as a fellow nigerian in her apartment suite and asks if they can pray together, ukamaka later telling him that she’s worried because her ex might have been on the flight. fortunately, through a call, she finds that he had missed his flight and is safe. 
