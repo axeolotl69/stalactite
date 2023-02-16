@@ -9,4 +9,4 @@ title: "psychology"
 
 ### week 3
 - [[notes/psych/research method/ethics|ethics]] and [[notes/psych/research method/ethics#remember CARDUD|CARDUD]] 
-- [[notes/psych/research method/brain function|brain function]] 
+- [[notes/psych/the brain/brain function|brain function]] 
