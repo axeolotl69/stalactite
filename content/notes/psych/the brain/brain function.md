@@ -11,7 +11,7 @@ title: "brain function"
 > the concept that different parts of the brain have different functions; proposed by Franz Gall towards the end of the 18th century
 - currently, neuroscience supports **relative localisation;** admits localisation for some functions under some conditions, but clearly outlines its limits
 > [!warning] research opposing localisation
-> karl lashley did smth with rats and concluded that memory was distributed rather than localised (ok dude)
+> karl lashley put rats in a maze and took out their cortexes (10-50%) and let them rerun the maze, and concluded that memory was distributed rather than localised (ok dude not ethical and not human but wtv)
 - <mark style="background: #F9C74F;">principle of mass action</mark> - based on a correlation observed between the percentage of cortex removed, and learning abilities: less cortex removed, slower and more inefficient the learning
 - <mark style="background: #F9C74F;">equipotentiality</mark> - refers to the ability of one part of the cortex to take over the functions of another part of the cortex
 ## hindbrain
@@ -62,7 +62,7 @@ title: "brain function"
 - primarily responsible for everything we <u>consciously think, feel, do</u>
 - divided into <u>two hemispheres (left + right)</u> 
 	- connected, largely by corpus callosum, which enables information exchange and coordinated functioning of the brain
-	- hemispheres can be further subdivded into four areas called <u>lobes</u>
+	- hemispheres can be further subdivided into four areas called <u>lobes</u>
 ### cerebral cortex
 - <u>outer layer of the brain</u>
 - wrinkled and folded so it can fit into a small space
@@ -88,7 +88,7 @@ title: "brain function"
 ### frontal lobe
 - largest of four lobes, located in <mark style="background: #90BE6D;">upper forward half of each hemisphere</mark>
 - responsible for planning and initiating voluntary bodily movements
-- can be further devided into:
+- can be further divided into:
 #### prefrontal cortex
 - located <mark style="background: #90BE6D;">at the front, behind the forehead</mark>
 - involved with <u>sophisticated mental abilities</u> like reasoning, planning, problem solving, decision making, symbolic thinking
@@ -102,7 +102,7 @@ title: "brain function"
 #### parietal lobe
 - located <mark style="background: #90BE6D;">behind frontal lobe</mark>, occupying the upper back half of the brain (excluding rearmost area)
 - receives and <u>processes bodily/somatosensory information</u> such as touch, temperature, information of muscle movement and body's position
-- the **primary somatosensorycortex** receives and processes sensory information from the skin and body parts
+- the **primary somatosensory cortex** receives and processes sensory information from the skin and body parts
 #### occipital lobe
 - located at the <mark style="background: #90BE6D;">rearmost of each hemisphere</mark>
 - almost exclusively devoted to sense of <u>vision</u>
@@ -112,8 +112,8 @@ title: "brain function"
 - involved with <u>auditory perception</u>, and plays an important role in memory, aspects of visual perception (identifying objects/faces) and emotional responses to sensory information and memories
 - **primary auditory cortex** receives and processes sound from both ears
 - <mark style="background: #4D908E;">broca's area</mark>
-	- case study of "tan" 1861
-	- louis leborgne lost ability to speak at age 30, only able t pronounce "tan". all other intellectual capacities remained
+	- case study of "tan" 1861, [[notes/psych/research method/quantitative research methods#case studies|longitudinal design]] 
+	- louis leborgne lost ability to speak at age 30, only able to pronounce "tan". all other intellectual capacities remained
 	- loss of articulated speech is now known as Broca's aphasia
 	- autopsy revealed lesion in the frontal area of the <mark style="background: #90BE6D;">left hemisphere</mark>
 - <mark style="background: #4D908E;">wernicke's area</mark>
