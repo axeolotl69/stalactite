@@ -6,7 +6,7 @@ title: "brain function"
 - many important functions are controlled by areas <u>beneath the cortex</u>
 - parts of the brain can be classified in different ways
 	- eg forebrain, midbrain, hindbrain, lobes
-![[Pasted image 20230215201640.png]]
+![[images/Pasted image 20230215201640.png]]
 > [!note] localisation of function
 > the concept that different parts of the brain have different functions; proposed by Franz Gall towards the end of the 18th century
 - currently, neuroscience supports **relative localisation;** admits localisation for some functions under some conditions, but clearly outlines its limits
