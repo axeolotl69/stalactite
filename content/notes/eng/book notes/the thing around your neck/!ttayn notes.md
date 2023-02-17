@@ -1,6 +1,7 @@
-  ---
+---
 title: "!ttayn notes"
 ---
+
 - cell one
 	- mc's brother nnamabia is the favourite child naughty kid who once faked his mother's jewelery being stolen so he could sell it himself
 	- his mother is so favouritism to him and not to mc
@@ -44,7 +45,6 @@ title: "!ttayn notes"
 		- they both bond over the loss of a loved one; chika lost her sister, the woman lost her daughter
 		- it's sort of about overcoming the bias that media and social stereotypes put on various social groups, in this case islam, and how these humane experiences in the middle of such inhumane circumstances can really stand out
 		- gives us a new perspective into the religious aspect and political aspect of nigeria
-
 - ghosts
 	- we get backstory on the war, his relationship
 	- it's in single perspective so it's very vague on whether what we're hearing from him is real or not
@@ -64,7 +64,9 @@ title: "!ttayn notes"
 	- but he pays attention to her
 	- so she dates him
 	- thing around your neck is like the suffocating feeling she has
-	- her dad dies and she leaves him
+	- her dad dies and she leaves him (or does she!!!!1!!!1!!1)
+- the american embassy
+	- 
 - the shivering
 	- ukamaka is a nigerian woman in college, worrying over a major plane crash in nigeria, as she believes that her ex, udenna, might have been aboard it 
 	- chinedu makes himself known as a fellow nigerian in her apartment suite and asks if they can pray together, ukamaka later telling him that she’s worried because her ex might have been on the flight. fortunately, through a call, she finds that he had missed his flight and is safe. 
