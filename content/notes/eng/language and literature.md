@@ -11,3 +11,6 @@ title: "language and literature"
 - learnt [[notes/eng/acronyms#sentence types|sentence types]] and [[notes/eng/acronyms#analysis structure|analysis structure]] 
 ### week 3
 - added panel notes to [[notes/eng/book notes/the thing around your neck/!ttayn notes|the thing around your neck notes]] 
+- came up with [[notes/eng/book notes/the thing around your neck/essay prompt idea|essay prompt idea]]
+### week 4
+- 

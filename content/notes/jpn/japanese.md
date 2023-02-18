@@ -13,3 +13,5 @@ find the [[notes/jpn/grammar/grammar|grammar]] here ... shudders
 - learnt various grammar (～といいな、～ばと思っている)
 ### week 3
 - learnt additional grammar (???)
+### week 4
+- 

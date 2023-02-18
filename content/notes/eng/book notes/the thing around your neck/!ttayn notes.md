@@ -66,7 +66,11 @@ title: "!ttayn notes"
 	- thing around your neck is like the suffocating feeling she has
 	- her dad dies and she leaves him (or does she!!!!1!!!1!!1)
 - the american embassy
-	- 
+	- story about someone...waiting in front of the american embassy....for an asylum visa
+	- her husband is a career-focused "selfish" (according to mc) news journalist who got smuggled over the border
+	- when officials come to find him they end up shooting her son bcs they were drunk
+	- so now she's seeking asylum
+	- when she's applying she ends up walking out of the office??@? idk whyyyyy possibly because she wants to stay in nigeria for her culture, "refusing to give herself up to america" (from panel) 
 - the shivering
 	- ukamaka is a nigerian woman in college, worrying over a major plane crash in nigeria, as she believes that her ex, udenna, might have been aboard it 
 	- chinedu makes himself known as a fellow nigerian in her apartment suite and asks if they can pray together, ukamaka later telling him that she’s worried because her ex might have been on the flight. fortunately, through a call, she finds that he had missed his flight and is safe. 
@@ -80,3 +84,6 @@ title: "!ttayn notes"
 	- chinedu opens up to ukamaka and tells her that is he at risk of deportation since his visa expired three years ago 
 	- ukamaka shows puzzle which grows into admiration for chinendu’s faith 
 	- they go to mass together the enddddd
+- the arrangers of marriage
+- tomorrow is too far
+- the headstrong historian
