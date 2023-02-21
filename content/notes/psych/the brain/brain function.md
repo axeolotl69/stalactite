@@ -10,6 +10,7 @@ title: "brain function"
 > [!note] localisation of function
 > the concept that different parts of the brain have different functions; proposed by Franz Gall towards the end of the 18th century
 - currently, neuroscience supports **relative localisation;** admits localisation for some functions under some conditions, but clearly outlines its limits
+- some parts of the brain have **strict localisation**; where the function is specific to only one part of the brain (eg [[#occipital lobe]], [[#thalamus|broca's area and wernicke's area]])
 > [!warning] research opposing localisation
 > karl lashley put rats in a maze and took out their cortexes (10-50%) and let them rerun the maze, and concluded that memory was distributed rather than localised (ok dude not ethical and not human but wtv)
 - <mark style="background: #F9C74F;">principle of mass action</mark> - based on a correlation observed between the percentage of cortex removed, and learning abilities: less cortex removed, slower and more inefficient the learning
@@ -120,5 +121,11 @@ title: "brain function"
 	- located in the <mark style="background: #90BE6D;">temporal lobe of dominant hemisphere</mark>
 	- responsible for <u>comprehension of written and spoken language</u>
 	- people with wernicke's aphasia have a general impairment of language comprehension, but speech is still intact
+## lateralisation
+- the idea that (some) functions in the brain are specific to one hemisphere
+- sperry and gazzaniga researched 4 split brain patients (patients whose corpus callosum had been surgically cut to reduce severe epilepsy) 
+- aim was to test the theory of lateralisation and to see if two hemispheres have uniquely different functions
+- when a picture of a spoon was shown to the left visual field, and ask to name/describe what they saw, patients said nothing, but when asked to pick up the object they did so successfully - **supports that lateralisation of language is in the left hemisphere**
+- when a simple word (eg pencil) was flashed to the right hemisphere, patients were able to pick the pencil from the group of objects - **supports that language production <u>is not exclusive</u> to the left hemisphere** 
 
 
