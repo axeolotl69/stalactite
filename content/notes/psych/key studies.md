@@ -19,6 +19,8 @@ template;
 **aim:** to investigate the role of the hippocampus in learning/memory in London male taxi drivers
 **procedure:** 
 - quasi experiment
+- sample: 16 London taxi drivers (male and right-handed) and 50 non-taxi drivers (also male and right-handed)
+	- taxi drivers had years of training and experience which developed their spacial recognition/awareness
 - IV - taxi driver/non-taxi driver
 - DV - volume of hippocampus, including their anterior, body, and posterior regions; measured by analysing MRI scans of participant's brains, analysed through pixel counting and VBM 
 **findings:**

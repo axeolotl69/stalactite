@@ -49,7 +49,6 @@ title: "!ttayn notes"
 	- we get backstory on the war, his relationship
 	- it's in single perspective so it's very vague on whether what we're hearing from him is real or not
 	- because he says that his wife visits him every day despite her being dead, and the person he's talking to supposedly died 37 years ago so
-	- 
 - on monday of last week
 	- 
 - jumping monkey hill
@@ -86,4 +85,16 @@ title: "!ttayn notes"
 	- they go to mass together the enddddd
 - the arrangers of marriage
 - tomorrow is too far
+	- INCEST
+	- they kill brother!!
+	- sheeeeeeesh
+	- it's giving first born son with privileges vs second born daughter who hates him
+	- **panel notes:**
+		- portrays thin line between hatred and love
+		- also an irony of the patriarchy; grandma although a woman is so headstrong on the idea of the first born son being more important
+		- "love can bloom from a shared hatred"
+		- told in second person - almost uncomfortable, and from a western perspective it can feel weird to "be" the one falling in love with a cousin
+		- kind of keeps you in the dark about other perspectives, especially from the brother's feelings. maybe he felt resentment for their grandma, maybe he didn't care, we don't know
+		- we wonder why the grandma is the "head" of the family, considering she is such a strong advocate for the patriarchy despite being a woman herself. we also know that her sons and husbands are notably absent from the story, perhaps that has influenced her need for a male heir to the family
+		- love between mc and cousin might have been born out of hatred but turned into something more?
 - the headstrong historian
