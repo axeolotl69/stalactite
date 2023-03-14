@@ -14,4 +14,4 @@ find the [[notes/jpn/grammar/grammar|grammar]] here ... shudders
 ### week 3
 - learnt additional grammar (???)
 ### week 4
-- 
+- ??? debates about イクメン vs イケメン

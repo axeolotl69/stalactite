@@ -1,0 +1,11 @@
+---
+title: "reflection on adichie"
+---
+## Reading Adichie has made me wonder...
+...how Adichie intended for the collection of stories to affect others, and whether this intention might be different for a different set of audiences. For fellow Nigerians, Igbo people, and those who could identify with the various other cultures and ethnic groups written in the text, is this a way of uplifting and representing these experiences, in the face of those who "only know one story of Africa"? Is it an opportunity to feel seen in text, or for them to find out more about their culture, which has been colonised and erased in so many ways? 
+
+And to everyone else, I think it might have been just that, a way to express the many stories of a community with so many fresh perspectives. For us who have only ever heard the singular story told through the mouths of white colonisers, this novel is refreshing and insightful to explore, with so many perspectives to unpack. I also think this connection of experiences between the reader and the text isn't limited to those who are Nigerian, as I'm sure many can relate to the erasure of culture and assimilation into a forced society, though obviously not in the exact same ways. 
+
+This also leads me to wonder whether our western or non-Nigerian view on the text has an impact on what we deem as normal, right, specifically referring to what I initially interpreted as blunt and detailed descriptions of nudity, incest and sexual activities. I found when reading these, I did feel a little uncomfortable, but soon wondered whether it was uncomfortable simply because in *my* culture and in the society we're in, this is deemed as taboo? How has my limited understanding of other cultures affected how I have read this text?
+
+I also wonder where these stories stem from; whether some of these are retold events from Adichie's life, or people she had interviewed, or a fictional yet real retelling of historical events she had researched. To understand the context and the author's relation to these stories would be really interesting, and potentially change how I view them as individual short stories and as a whole body of text. 

@@ -6,27 +6,26 @@ title: "quantitative research methods"
 - <u>goal:</u> to determine whether a cause-and-effect exists between two variables
 
 ### field experiments
-- studies done outside of the labratory or in the "real world"
+- <mark style="background: #90BE6D;">studies done outside of the labratory or in the "real world"</mark>
 - <u>two key limitations</u>
 	- cannot control for extraneous variables
 	- cannot be easily replicated
 - <u>ethical concerns:</u> often not practical to get informed consent + debrief
 
 ### quasi and natural experiments
-- participants are <u>not</u> randomly allocated to conditions
-- in <mark style="background: #90BE6D;">quasi-experiments</mark> participants are grouped based on a trait or behaviour
+- <mark style="background: #90BE6D;">participants are <u>not</u> randomly allocated to conditions</mark>
+- in quasi-experiments participants are grouped <mark style="background: #90BE6D;">based on a trait or behaviour</mark>
 	- eg one group has depression and one does not
 	- other common IVs used include gender, culture, age
-- <mark style="background: #90BE6D;">natural experiments</mark> are a subset of quasi experiments
-	- refers to an independent variable that in environmental in nature and outside of the control of the researcher
-	- <u>most natural experiments work on a pre-test, post-test design; behaviour is measured both before and after the variable was introduced</u>
+- natural experiments - <mark style="background: #90BE6D;">refers to an independent variable that in environmental in nature and outside of the control of the researcher</mark>
+	- most natural experiments work on a pre-test, post-test design; behaviour is measured both before and after the variable was introduced
 - both <u>do not show direct causation</u>, but they are able to imply a causal relationship between IV and DV
 
 ### correlational studies
 - take place when an experiment cannot be carried out, but data are collected which show a relationship between two variables
 	- when one variable changes, another variable changes with it
-- a <mark style="background: #F9C74F;">positive correlation</mark> is when both variables are affected in the same way; as x increases y increases
-- a <mark style="background: #F9C74F;">negative correlations</mark> means that as one variable increases, the other decreases
+- a positive correlation is when both variables are affected in the same way; as x increases y increases
+- a negative correlation means that as one variable increases, the other decreases
 - no independent variable is manipulated, so <u>no cause and effect relationship can be determined</u>
 - <mark style="background: #90BE6D;">bidirectional ambiguity</mark> is seen in correlational research; since no independent variable is manipulated, it is impossible to know if x causes y or vice versa, or if it's coincidental or due to a third variable
 

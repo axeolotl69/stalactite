@@ -98,3 +98,12 @@ title: "!ttayn notes"
 		- we wonder why the grandma is the "head" of the family, considering she is such a strong advocate for the patriarchy despite being a woman herself. we also know that her sons and husbands are notably absent from the story, perhaps that has influenced her need for a male heir to the family
 		- love between mc and cousin might have been born out of hatred but turned into something more?
 - the headstrong historian
+	- mother sends son to catholic school in hopes of helping him learn english to have an advantage/protection which kind of made him distanced from his culture
+	- and this his daughter, grace (take note of the christian name), realised she didn't have as much culture as she thought she did
+	- she *is* the headstrong historian woah
+	- as grandma was close to death the son begged her to be baptised because he didn't want to partake in a "heathen" ceremony oww
+	- **panel notes:**
+		- close third person perspective but through the grandma, rather than grace
+		- grandma's intent was just to have some sort of protection with speaking english, whereas he took it "too far" and became a son she didn't know - when asked about her name, her son said an anglo name rather than her real name
+		- grandmother's journey with accepting her son's change is similar to five stages of grief; denial and then acceptance etc, slow change but change nonetheless
+		- grandma was hoping that her son was her husband's soul reborn (again, the denial) to feel safe, and then when grace was born she realised that her "husband was back" through grace; she didn't anticipate this as much as she anticipated it for her son because of gender difference

@@ -3,18 +3,9 @@ title: "brain function"
 ---
 - a mass of networked cells
 - cerebral cortex is the <u>most prominent</u> part when looking at the brain
-- many important functions are controlled by areas <u>beneath the cortex</u>
 - parts of the brain can be classified in different ways
 	- eg forebrain, midbrain, hindbrain, lobes
 ![[images/Pasted image 20230215201640.png]]
-> [!note] localisation of function
-> the concept that different parts of the brain have different functions; proposed by Franz Gall towards the end of the 18th century
-- currently, neuroscience supports **relative localisation;** admits localisation for some functions under some conditions, but clearly outlines its limits
-- some parts of the brain have **strict localisation**; where the function is specific to only one part of the brain (eg [[#occipital lobe]], [[#thalamus|broca's area and wernicke's area]])
-> [!warning] research opposing localisation
-> karl lashley put rats in a maze and took out their cortexes (10-50%) and let them rerun the maze, and concluded that memory was distributed rather than localised (ok dude not ethical and not human but wtv)
-- <mark style="background: #F9C74F;">principle of mass action</mark> - based on a correlation observed between the percentage of cortex removed, and learning abilities: less cortex removed, slower and more inefficient the learning
-- <mark style="background: #F9C74F;">equipotentiality</mark> - refers to the ability of one part of the cortex to take over the functions of another part of the cortex
 ## hindbrain
 - located at the base of the brain around the brainstem
 - is a collection of lower level brain structures that include the cerebellum, medulla and pons
@@ -112,20 +103,15 @@ title: "brain function"
 - located in the <mark style="background: #90BE6D;">lower, central area of the brain, above and around the top of each ear</mark>
 - involved with <u>auditory perception</u>, and plays an important role in memory, aspects of visual perception (identifying objects/faces) and emotional responses to sensory information and memories
 - **primary auditory cortex** receives and processes sound from both ears
-- <mark style="background: #4D908E;">broca's area</mark>
-	- case study of "tan" 1861, [[notes/psych/research method/quantitative research methods#case studies|longitudinal design]] 
+#### broca's area
+- case study of "tan" 1861, [[notes/psych/research method/quantitative research methods#case studies|longitudinal design]] 
 	- louis leborgne lost ability to speak at age 30, only able to pronounce "tan". all other intellectual capacities remained
 	- loss of articulated speech is now known as Broca's aphasia
 	- autopsy revealed lesion in the frontal area of the <mark style="background: #90BE6D;">left hemisphere</mark>
-- <mark style="background: #4D908E;">wernicke's area</mark>
-	- located in the <mark style="background: #90BE6D;">temporal lobe of dominant hemisphere</mark>
+#### wernicke's area
+- located in the <mark style="background: #90BE6D;">temporal lobe of dominant hemisphere</mark>
 	- responsible for <u>comprehension of written and spoken language</u>
 	- people with wernicke's aphasia have a general impairment of language comprehension, but speech is still intact
-## lateralisation
-- the idea that (some) functions in the brain are specific to one hemisphere
-- sperry and gazzaniga researched 4 split brain patients (patients whose corpus callosum had been surgically cut to reduce severe epilepsy) 
-- aim was to test the theory of lateralisation and to see if two hemispheres have uniquely different functions
-- when a picture of a spoon was shown to the left visual field, and ask to name/describe what they saw, patients said nothing, but when asked to pick up the object they did so successfully - **supports that lateralisation of language is in the left hemisphere**
-- when a simple word (eg pencil) was flashed to the right hemisphere, patients were able to pick the pencil from the group of objects - **supports that language production <u>is not exclusive</u> to the left hemisphere** 
+
 
 

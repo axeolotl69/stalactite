@@ -3,6 +3,7 @@ title: "key studies"
 ---
 contents;
 [[#MAGUIRE et al 2000, London Taxi Drivers]]
+[[#HM: MILNER 1966]]
 
 template; 
 **NAME+YEAR**
@@ -67,3 +68,26 @@ template;
 - cannot easily be replicated
 - retrospective; we did not know much about HM before the incident
 - hard to generalise
+## DRAGNISKI et al 2004, juggling
+#neuroplasticity #neuralpruning #synapses 
+**aim:** to see whether learning a new skill (juggling in this case) would have an effect on the brains of the participants
+**procedure:**
+- type of study: experimental
+- 24 volunteers between ages 20-24; 21 females and 3 males, all non-jugglers at the start of the study
+- everyone had an MRI scan at the start of the study, then the sample was separated into two groups: jugglers and non-jugglers
+- jugglers were taught how to juggle, then asked to practice. when they had mastered it they would contact the researchers and have another MRI scan
+- non-juggling group was the control
+- three months after that, another MRI scan was taken
+**findings:**
+- MRIs analysed using VBM
+- after they had mastered juggling, jugglers had significantly larger amounts of grey matter in the mid-temporal lobe in both hemispheres (associated with visual memory)
+- the final MRI showed that this grey matter had decreased
+**conclusions:**
+- suggests that learning a new skill changes the grey matter density in the respective part of the brain, supporting neuroplasticity
+- and that as skills are less used, neural pruning occurs.
+- juggling relies more on visual memory than spatial??
+**strengths:**
+- 
+**weaknesses:** 
+- small sample size
+- internal validity issues; participants were at home for most of the experiment, many extraneous variables
