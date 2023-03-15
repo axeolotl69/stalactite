@@ -4,6 +4,9 @@ title: "key studies"
 contents;
 [[#MAGUIRE et al 2000, London Taxi Drivers]]
 [[#HM: MILNER 1966]]
+[[#DRAGNISKI et al 2004, juggling]]
+[[#CROCKETT et al 2010, trolley dilemma]]
+[[#FISHER, ARON & BROWN 2005]]
 
 template; 
 **NAME+YEAR**
@@ -91,3 +94,40 @@ template;
 **weaknesses:** 
 - small sample size
 - internal validity issues; participants were at home for most of the experiment, many extraneous variables
+## CROCKETT et al 2010, trolley dilemma
+#neurotransmission
+**aim:** to see whether citalopram, an SSRI, affects pro-social behaviour
+**procedure:** 
+- repeated measures experimental design
+- sample: 30 healthy subjects, mean age was 26
+- experimental group: participants given a does of citalopram (which blocks reuptake of serotonin from the synapse+boosts concentration)
+- control group: was given a placebo
+- research was double-blind study
+- after taking the drug, participants were given a series of moral dilemmas that involved impersonal situations like the trolley problem (saving five people and killing one, or vice versa) or personal situations (pushing a man off a bridge to stop a train from killing five people)
+**findings:**
+- responses in the impersonal version were unaffected by citalopram
+- after one dose of citalopram, participants were less likely to push the man off the bridge in the personal scenario, than participants in the placebo condition
+**conclusions:**
+- serotonin reduces acceptability of personal harm, and in this way promotes prosocial behaviour
+- serotonin modulates reactions of the brain to emotinoally salient situations so that inflicting harm on other people is judged as less acceptable
+**strengths:**
+**weaknesses:** authors recognised that citalopram intake induced slight nausea, which could mean that participants could work out whether they were in the experimental on control group
+## FISHER, ARON & BROWN 2005
+#neurotransmission 
+**aim:** to find how dopamine affects being in love (?)
+**procedure:**
+- sample: 10 men and 7 women who were currently "intensely in love" but not with each other, recruited by volunteering. mean age was 21 and mean duration of being in love was 7 months
+- all participants went under an fMRI and engaged in a standardised procedure of looking at photos while their brains were scanned. there were four stages:
+	- for 30 seconds, each participant viewed a photo of their loved one
+	- 40 second filler activity which was to count back from a given number
+	- 30 more seconds participants viewed a pot of an emotionally neutral acquaintance
+	- final stage was 20 seconds of counting back from a given number
+- these steps were repeated 6 times, so the total procedure lasted 720 seconds (12 minutes)
+**findings:**
+- specific pattern of activation in the brains of participants in response to the photographs of their loved ones; activation was observed in dopamine-rich neural systems, primarily the VTA and caudate nucleus
+- both VTA and caudate nucleus are rich in dopamine and form the key part of the so-called copaminergic pathway - a system that generates and transmits dopamine, and increases dopamine activity in the brain
+- reward system, dopaminergic activity is associated with motivation and feelings of pleasure (romantic love??)
+**conclusions:**
+- inferred that dopamine plays a role in love
+**strengths:**
+**weaknesses:** 
