@@ -22,7 +22,7 @@ cells in the peripheral nervous system that produce the myelin sheath, and assis
 ### synaptic gap
 ![[images/Pasted image 20230314211447.png]]
 ...the tiny space where a neurotransmitter passes a chemical message from the terminal button of one neuron to the dendrites of another
--  synapes is the site where communication occurs between two neurons. three components are the synaptic gap, terminal buttons of the pre-synaptic neuron and the dendrites of the post-synaptic neuron
+-  synapse is the site where communication occurs between two neurons. three components are the synaptic gap, terminal buttons of the pre-synaptic neuron and the dendrites of the post-synaptic neuron
 ## neurotransmitters
 - more than 100 different kinds
 - chemical substance produced by a neuron that carries a message to other neurons/muscle cells
