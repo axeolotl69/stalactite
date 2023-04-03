@@ -13,8 +13,10 @@ title: "psychology"
 ### week 4
 - learnt how to write SAQ using "Not All Police Find Crooks ~~Smoking Weed~~"
 ### week 5
-- tried to plan an [[notes/psych/SAQs/Describe one technique used to study the brain|SAQ]]
+- tried to plan an [[notes/psych/SAQ+ERQs/Describe one technique used to study the brain|SAQ]]
 - started [[notes/psych/biological approach/neuroplasticity|neuroplasticity]] and [[notes/psych/biological approach/techniques of studying the brain|techniques of studying the brain]] 
 ### week 6 
 - psych testtttt
 - started [[notes/psych/biological approach/neurotransmission|neurotransmission]]
+### week 8
+- started [[notes/psych/biological approach/hormones|hormones and pheromones]] 

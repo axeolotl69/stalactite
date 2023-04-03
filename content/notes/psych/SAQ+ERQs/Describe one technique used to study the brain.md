@@ -1,3 +1,7 @@
+---
+title: "Describe one technique used to study the brain"
+---
+
 ## key vocab / description of theory
 - mri
 - uses magnetic field to take images of slices of the brain to create a 3d image

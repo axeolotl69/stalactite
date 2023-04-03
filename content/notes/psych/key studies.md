@@ -7,8 +7,12 @@ contents;
 [[#DRAGNISKI et al 2004, juggling]]
 [[#CROCKETT et al 2010, trolley dilemma]]
 [[#FISHER, ARON & BROWN 2005]]
+[[#SCHEELE et al 2012 (two tasks)]]
+[[#DE DREU et al 2012]]
+[[#WEDEKIND et al 1995]]
+[[#ZHOU et al 2014]]
 
-template; 
+template (SAQ); 
 **NAME+YEAR**
 **aim:** 
 **procedure:**
@@ -18,8 +22,15 @@ template;
 **weaknesses:** 
 "*Not all policemen find crooks smoking weed.*"
 
+template (ERQ);
+**intro:** "knowledge" paragraph SAQ
+**study/arg 1:** NAPFCSW 
+**study/arg 2:** NAPFCSW
+*note - both studies can be for/against the topic*
+**conclusion:** do the studies support the topic
+
 ## MAGUIRE et al 2000, London Taxi Drivers
-#localisationoffunction #neuroplasticity #rmofbiologicalapproach
+#localisationoffunction #neuroplasticity #rmofbiologicalapproach #biologicalapproach 
 **aim:** to investigate the role of the hippocampus in learning/memory in London male taxi drivers
 **procedure:** 
 - quasi experiment
@@ -43,7 +54,7 @@ template;
 - sampling bias due to male population, difficult to generalise results
 
 ## HM: MILNER 1966
-#rmofcognitiveapproach #localisationoffunction #multistoremodelofmemory 
+#rmofcognitiveapproach #localisationoffunction #multistoremodelofmemory #biologicalapproach 
 **aim:** to better understand the effects that the surgery had on HM
 **procedure:**
 - longitudinal case study, HM had a surgery which removed tissue from medial temporal lobe (including hippocampus)
@@ -72,7 +83,7 @@ template;
 - retrospective; we did not know much about HM before the incident
 - hard to generalise
 ## DRAGNISKI et al 2004, juggling
-#neuroplasticity #neuralpruning #synapses 
+#neuroplasticity #neuralpruning #synapses #biologicalapproach 
 **aim:** to see whether learning a new skill (juggling in this case) would have an effect on the brains of the participants
 **procedure:**
 - type of study: experimental
@@ -95,7 +106,7 @@ template;
 - small sample size
 - internal validity issues; participants were at home for most of the experiment, many extraneous variables
 ## CROCKETT et al 2010, trolley dilemma
-#neurotransmission
+#neurotransmission #agonist #biologicalapproach 
 **aim:** to see whether citalopram, an SSRI, affects pro-social behaviour
 **procedure:** 
 - repeated measures experimental design
@@ -113,7 +124,7 @@ template;
 **strengths:**
 **weaknesses:** authors recognised that citalopram intake induced slight nausea, which could mean that participants could work out whether they were in the experimental on control group
 ## FISHER, ARON & BROWN 2005
-#neurotransmission 
+#neurotransmission #biologicalapproach 
 **aim:** to find how dopamine affects being in love (?)
 **procedure:**
 - sample: 10 men and 7 women who were currently "intensely in love" but not with each other, recruited by volunteering. mean age was 21 and mean duration of being in love was 7 months
@@ -130,4 +141,83 @@ template;
 **conclusions:**
 - inferred that dopamine plays a role in love
 **strengths:**
+**weaknesses:** 
+## SCHEELE et al 2012 (two tasks)
+#hormones #oxytocin #biologicalapproach 
+**aim:** to find the role of oxytocin in promoting fidelity in humans
+**procedure:** 
+- 86 heterosexual men, some of which were single and some were in a stable monogomous relationship
+- double-blind indepdent measures design
+- <u>task one:</u> subjects positions at the end of a room while an "attractive" female experimenter was positioned on the other side. subject was required to move slowly towards the female experimenter and stop at a distance that made him feel slightly uncomfortable/too close
+- <u>task two:</u> subjects viewed a series of pictures on a screen 50cm away from them, each picture was shown for 2secs each. four kinds of pictures were shown: positive social, negative social, positive non-social, and negative non-social. all participants had a joystick, and if they liked the picture they were asked to pull the joystick which resulted in an increase of the pictures size/vice versa with disliked images (simulation of approach or avoidance)
+- IV - oxytocin/placebo intranasally administered
+- DV - how far men stood away from female researcher/how close or far the images were placed 
+**findings:**
+- <u>task one:</u> non-single males with oxytocin dose stood further away from women (avg of 71cm) while single males on oxytocin dose were barely affected
+- <u>task two:</u> only groups of pictures affected by oxytocin and relationship status was the positive social group (attractive women pics); specifically, participants in a relationship who had oxytocin had slower reaction time in response to pictures
+**conclusions:**
+- oxytocin caused men in a relationship to "stay away from" an attractive woman who was not his partner
+- oxytocin selectively inhibits approach to certain stimuli (attractive women) in men who are in a stable relationship, but not in single men
+- oxytocin plays a role in fidelity
+**strengths:**
+- double blind, indepdendent measures
+**weaknesses:** 
+
+
+## DE DREU et al 2012
+#oxytocin #biologicalapproach #hormones 
+**aim:** to investigate the effect of oxytocin on inter-group conflict and out-group conflicts
+**procedure:**
+- double-blind experiment
+- independent measures design
+- sample of 102 males
+- self administed a dose of oxytocin or a placebo through nasal spray
+- participants were randomly assigned to 3 person groups and told they would need to compete against another group of 3
+- each person was paired with a member of another 3 person group, and they played a modified version of "prisoner's dilemma" (that one game between cooperating/not cooperating and you gain/lose points)
+- payoffs from the game was converted to real money and given to the participants
+**findings:**
+- a player's defence-motivated non-cooperation
+	- is more likely if vulnerability of the player's group is high 
+	- does not depend so much on the player's own vulnerability
+	- is more likely in the oxytocin condition
+**conclusions:**
+- oxytocin-induced non-cooperation is motivated by the desire to protect vulnerable group members, and not so much the desire to protect oneself
+- reinforces the role of oxytocin in creation bonds with members of your ingroup
+- shows that oxytocin can have a reverse, negative side in creating defensiveness and non-cooperation with others
+**strengths:**
+**weaknesses:** 
+
+## WEDEKIND et al 1995
+#pheromones #biologicalapproach 
+**aim:** to test whether a female will rate a sweaty t-shirt as more attractive if it is from a man with different immune system genes to her own
+**procedure:**
+- 49 females and 44 males tested for immune system genes
+- males asked to wear a plain white t-shirt for 2 days
+- t-shirts then put in closed boxes until females were asked to smell them
+- females asked to rate the t-shirts for pleasantness and sexiness
+**findings:**
+- women rated the t-shirts as more pleasant and sexy if they came from a man with different MHC genes
+**conclusions:**
+- people are more motivated to find a mate with different immune system genes so their offspring will have stronger immune systems
+- also concluded body odour, not pheromones, is an important element of sociosexual behaviour
+**strengths:**
+**weaknesses:** 
+
+## ZHOU et al 2014
+#pheromones #biologicalapproach 
+**aim:** to see the effect of AND and EST on heterosexual and homosexual men and women
+**procedure:**
+- sample was four groups of healthy non-smokers, including 24 hetero males, 24 hetero females, 24 homo males and 24 bi/homo females
+- participants watched stick figures walking on a screen and were asked to guess the gender of the stick figure
+- while watching, participants were exposed to the smell of cloves. in experimental condition, the cloves were mixed with AND; in control only cloves were used
+**findings:**
+- when het females and homo men were exposed to AND they had a higher rate of identifying the stick figure as "masculine" than the control group
+- AND had no significant effect on het men or homo women
+**conclusions:**
+- AND and EST may have some effect on human sexual behaviour
+**strengths:**
+- highly standardised procedure, easy to replicate
+- sample allowed for differences in sexuality
+- all participants were exposed to female version of AND, which was EST, and similar results were explained for het males but not as strongly for homo females
+- counter-balanced to control order effects
 **weaknesses:** 
