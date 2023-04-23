@@ -1,7 +1,8 @@
 ---
 title: "pheromones"
 ---
-- chemicals secreted outside of the body
+#### pheromones
+...are a chemical substance produced and released into the environment by an animal affecting the behaviour or physiology of others of its own species.
 - shown to play a role in the behaviour of mammals, mainly in mating behaviour
 - <u>no known pheromones that exist for humans</u>
 - pheromones are signals that are common for all males or females of a species; they exist in all animals, including mammals
@@ -25,3 +26,9 @@ title: "pheromones"
 #### estatenenol (est)
 - best known candidate for human sex pheromone, thought to signal gender and effect mate perception
 - found in the urine of pregnant women
+## major histocompatibility complex (MHC)
+- in a study by [[notes/psych/key studies#WEDEKIND et al 1995|wedekind]] it mentions MHC
+- Not a pheromone but good to know!
+- basically it's a group of genes related to the immune system within humans
+- there are two classes, class 1 and 2, and wedekind suggests that humans are more likely to think someone is more attractive if they have the MHC that they <u>don't</u> have, ie. someone with class 1 will think someone with class 2 is more attractive
+- because reproduction is all about variety right!

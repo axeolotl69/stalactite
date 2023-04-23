@@ -200,9 +200,14 @@ template (ERQ);
 **conclusions:**
 - people are more motivated to find a mate with different immune system genes so their offspring will have stronger immune systems
 - also concluded body odour, not pheromones, is an important element of sociosexual behaviour
-**strengths:**
+**strengths:** 
+- has been successfully replicated
+- double blind experiment
+- met ethical standards
+- well controlled; ensured that it was the odor being smelt and nothing else
+- ecologically valid(?)
 **weaknesses:** 
-
+- 
 ## ZHOU et al 2014
 #pheromones #biologicalapproach 
 **aim:** to see the effect of AND and EST on heterosexual and homosexual men and women
@@ -221,3 +226,4 @@ template (ERQ);
 - all participants were exposed to female version of AND, which was EST, and similar results were explained for het males but not as strongly for homo females
 - counter-balanced to control order effects
 **weaknesses:** 
+- levels of AND and EST presented were much higher than the natural amount present in humans (questionable ecological validity)
