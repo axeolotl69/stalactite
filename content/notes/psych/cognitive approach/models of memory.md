@@ -50,10 +50,10 @@ title: "models of memory"
 	- **implicit** (procedural memory and classically conditioned memory)
 ## serial position effect
 - recall accuracy varies as a function of an item's position within a study list
-- <u>recency effect</u>: things at the end of a list are recalled first
-	- suggests these items are still present in working/STM
 - <u>primacy effect</u>: earlier items recalled more frequently than middle items
 	- initial items presented are most effectively stored in LTM because of greater amount of attention/processing
+- <u>recency effect</u>: things at the end of a list are recalled first
+	- suggests these items are still present in working/STM
 # working model of memory
 - development of multi-store model of memory
 ![[images/Pasted image 20230530205712.png]] 

@@ -374,7 +374,7 @@ template (ERQ);
 - cortical remapping of sensory inputs from the hand occurs within 62 days in owl monkeys
 **strengths:**
 **weaknesses:** 
-## GLANZER AND CUNTIZ 1966
+## GLANZER AND CUNITZ 1966
 #multistoremodelofmemory #cognitiveapproach 
 **aim:** to investigate whether the interval of time between words on a list would increase number of words recalled at the start of the list. (eg primacy vs recency)
 **procedure:**
