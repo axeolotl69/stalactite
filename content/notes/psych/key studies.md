@@ -2,7 +2,7 @@
 title: "key studies"
 ---
 
-contents;
+contents
 [[#MAGUIRE et al 2000, London Taxi Drivers]]
 [[#HM: MILNER 1966]]
 [[#DRAGNISKI et al 2004, juggling]]
