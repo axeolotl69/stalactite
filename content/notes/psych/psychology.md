@@ -25,6 +25,9 @@ title: "psychology"
 [[notes/psych/biological approach/animal research in understanding human behaviour|animal research in understanding human behaviour]]
 ### evolution
 [[notes/psych/biological approach/evolutionary explanations for behaviour|evolutionary explanations for behaviour]] 
-
+## cognitive approach
+### models of memory
+[[notes/psych/cognitive approach/models of memory#multi-store model of memory (atkinson and shiffrin)|multi store model of memory]]
+[[notes/psych/cognitive approach/models of memory#working model of memory|working model of memory]]
 
 

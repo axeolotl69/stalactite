@@ -15,7 +15,7 @@ title: "models of memory"
 ### retrieval
 - process of locating and recovering stored info from memory so that we are consciously aware of it
 - <u>not a random process</u>, involves various elements of cues, moods, schema, and is subject to errors
-## multi-store model of memory (atkinson and shiffrin)
+# multi-store model of memory (atkinson and shiffrin)
 - proposed in 1968
 - human memory is said to consist of three separate components
 	- sensory
@@ -23,7 +23,7 @@ title: "models of memory"
 	- long-term
 - these components are characterised by a specific duration and capacity
 - certain conditions have to be met in order to make info move to the next memory-store
-![[Pasted image 20230523135507.png]]
+![[images/Pasted image 20230523135507.png]]
 ### sensory memory
 - does not process information
 - capacity: <u>large</u>, duration: <u>short</u>
@@ -54,9 +54,9 @@ title: "models of memory"
 	- suggests these items are still present in working/STM
 - <u>primacy effect</u>: earlier items recalled more frequently than middle items
 	- initial items presented are most effectively stored in LTM because of greater amount of attention/processing
-## working model of memory
+# working model of memory
 - development of multi-store model of memory
-![[Pasted image 20230530205712.png]] 
+![[images/Pasted image 20230530205712.png]] 
 - baddely and hitch (1974) developed the working memory model ^^
 - working memory consists of a central executive that coordinates two subsystems:
 ### central executive
