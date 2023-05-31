@@ -12,5 +12,5 @@ note taking guide:
 
 <u>important shit</u>
 
-<mark style="background: #90BE6D;">pros</mark>
-<mark style="background: #d95950;">cons</mark>
+<span style="color:#90BE6D">pros</span>
+<span style="color:#d95950">cons</span>

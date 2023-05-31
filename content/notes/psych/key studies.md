@@ -1,6 +1,7 @@
 ---
 title: "key studies"
 ---
+
 contents;
 [[#MAGUIRE et al 2000, London Taxi Drivers]]
 [[#HM: MILNER 1966]]
@@ -11,6 +12,14 @@ contents;
 [[#DE DREU et al 2012]]
 [[#WEDEKIND et al 1995]]
 [[#ZHOU et al 2014]]
+[[#CASPI et al 2003]] 
+[[#WEISSMAN et al 2005]]
+[[#KENDLER et al 2006]]
+[[#BUSS 1989]]
+[[#ROGERS AND KESNER 2003]]
+[[#ROMERO et al 2014]]
+[[#MERZENICH 2004]]
+[[#GLANZER AND CUNTIZ 1966]]
 
 template (SAQ); 
 **NAME+YEAR**
@@ -54,7 +63,7 @@ template (ERQ);
 - sampling bias due to male population, difficult to generalise results
 
 ## HM: MILNER 1966
-#rmofcognitiveapproach #localisationoffunction #multistoremodelofmemory #biologicalapproach 
+#rmofcognitiveapproach #localisationoffunction #multistoremodelofmemory #biologicalapproach #cognitiveapproach 
 **aim:** to better understand the effects that the surgery had on HM
 **procedure:**
 - longitudinal case study, HM had a surgery which removed tissue from medial temporal lobe (including hippocampus)
@@ -147,7 +156,7 @@ template (ERQ);
 **aim:** to find the role of oxytocin in promoting fidelity in humans
 **procedure:** 
 - 86 heterosexual men, some of which were single and some were in a stable monogomous relationship
-- double-blind indepdent measures design
+- double-blind independent measures design
 - <u>task one:</u> subjects positions at the end of a room while an "attractive" female experimenter was positioned on the other side. subject was required to move slowly towards the female experimenter and stop at a distance that made him feel slightly uncomfortable/too close
 - <u>task two:</u> subjects viewed a series of pictures on a screen 50cm away from them, each picture was shown for 2secs each. four kinds of pictures were shown: positive social, negative social, positive non-social, and negative non-social. all participants had a joystick, and if they liked the picture they were asked to pull the joystick which resulted in an increase of the pictures size/vice versa with disliked images (simulation of approach or avoidance)
 - IV - oxytocin/placebo intranasally administered
@@ -162,8 +171,6 @@ template (ERQ);
 **strengths:**
 - double blind, indepdendent measures
 **weaknesses:** 
-
-
 ## DE DREU et al 2012
 #oxytocin #biologicalapproach #hormones 
 **aim:** to investigate the effect of oxytocin on inter-group conflict and out-group conflicts
@@ -188,7 +195,7 @@ template (ERQ);
 **weaknesses:** 
 
 ## WEDEKIND et al 1995
-#pheromones #biologicalapproach 
+#pheromones #biologicalapproach #evolution 
 **aim:** to test whether a female will rate a sweaty t-shirt as more attractive if it is from a man with different immune system genes to her own
 **procedure:**
 - 49 females and 44 males tested for immune system genes
@@ -227,3 +234,172 @@ template (ERQ);
 - counter-balanced to control order effects
 **weaknesses:** 
 - levels of AND and EST presented were much higher than the natural amount present in humans (questionable ecological validity)
+
+## CASPI et al 2003
+#depression #biologicalapproach #genetics 
+**aim:** to determine whether there is evidence for a gene-environment interaction for a mutation of the serotonin transporter gene (5-HTT).
+**procedure:**
+- natural experiment (IV is natually occuring), longitudinal study
+- sample: 847 New Zealand 26 year olds, who had been assessed for mental health every other year until they were 21
+- divided into 3 groups based on their 5-HTT alleles:
+	- group 1: 2 short alleles, homozygous (recessive)
+	- group 2: 1 long + 1 short allele, heterozygous
+	- group 3: 2 long alleles, homozygous
+- mutation of the 5-HTT gene has shorter allele
+- participants asked to fill in a "stressful life events" questionare, asking them about the frequency of 14 different events including financial, employment, health and relationship stressors between the ages of 21-26
+- they were assessed for depression too (method triangulation)
+**findings:**
+- people who had inherited one or more of the short alleles (group 1 and 2) demonstrated more symptoms of depression in response to stressful life events
+- the effect was strongest for those with 3 or more stressful life events (environment factor)
+- inheriting the gene alone was <u>not</u> enough to lead to depression, but the genes' interaction with these events increased one's likelihood of developing depression
+**conclusions:**
+**strengths:**
+**weaknesses:** 
+## WEISSMAN et al 2005
+#majordepressivedisorder #biologicalapproach #genetics #kinshipstudy #geneticsimilarity
+**aim:** to investigate the potential genetic nature of Major Depressive Disorder
+**procedure:**
+- longitudinal kinship study taking place over 20 years
+- original sample was depressed grandparents, and the control group were selected from local community
+- data collected from clinicians, blind to past diagnosis of depression and data from previous interviews
+**findings:**
+- 59.2% of grandchildren with family history of MDD were showing signs of a psychiatric disorder by 12 years old
+- children had increased risk of any disorder if depression was observed in both the grandparents and parents, compared to children whose parents did not have depression
+- the severity of a parent's depression was correlated with an increased rate of mood disorder in the children
+- if a parent was depressed, but there was no history of depression in the grandparents, there was no significant effect of parental depression on the grandchildren
+**conclusions:**
+**strengths:**
+- researcher triangulation used
+- children were evaluated by both a child psychiatrist and another psychologist
+- single-blind (researchers unaware of MDD history)
+**weaknesses:** 
+- no actual genotype was studied
+- correlational
+- small sample size
+## KENDLER et al 2006
+#genetics #twinstudy #biologicalapproach #majordepressivedisorder 
+**aim:** three aims...
+1.  Past studies suggest a 35-45% heritability of major depression. Would this be true in a large Swedish sample? 
+2.  Are there significant gender differences in the heritability of major depression? 
+3.  Is there evidence that genetic and environmental factors in major depression differ over time?
+**procedure:**
+- sample: 15,493 complete twin pairs listed in the Swedish Twin Registry, only twins whose zygosity could be verified were used in the study.
+- Researchers used a team of trained interviewers to carry out telephone interviews between 1998 and 2003. The interviewers assessed lifetime major depression using modified DSM-IV criteria 
+- 8056 twins met the criteria for diagnosis of MDD at some point in their life
+- interviewers also asked questions about the twins “shared environment” and their “individual specific environment"
+**findings:**
+**![](https://lh6.googleusercontent.com/KZVzXuglvIxmQVLeGR7eJ73yIPycX1u0Gv_jIVcze5q9Aonv0eskPCGzr2iUK1IG775kUzfqLyd26s5c--LCK9XBBwNg9IHSSavm_Y1QUmYrwVVxcMf6M3RZ4dcSgiC6ntDdqhWiss8iYiRljpJmCfaD2A=s2048)
+- concordance rates for MDD were significantly higher in women than men
+- significantly higher in MZ twins than DZ twins
+- no correlation between number of years twins had lived together and MDD
+- estimated heritability of MDD was 0.348, in line with previous research
+- no significant differences in role of genetic and environmental factors in MDD
+**conclusions:**
+- suggests heritability of MDD is higher in women than men, and that some genetic risk factors are sex-specific
+**strengths:**
+- confirms previous research, strengthening the reliability of the findings
+**weaknesses:** 
+- correlational
+- large sample size
+- self-reported
+## BUSS 1989
+#biologicalapproach #evolution 
+**aim:** to test three evolution-based assumptions about human mate selection: 
+1. as men are searching for women with high reproductive value, they will favour youth and physical appearance
+2. as woman are searching for men who will invest in their offspring, they will favour a man with the resources he can provide
+3. as men do not want to invest in another man's child, abstinence will be highly valued
+**procedure:**
+- 37 samples taken from 33 countries, total of 10k participants
+- each sample completed two surveys; the first collected biographical data asking participants what age they prefer to marry at, their preferred age difference between themselves and their spouse, who should be older in a couple and how many children they want
+- they then rated 18 characteristics on a 4-point scale on how important they think they are
+- second survey provided 13 characteristics that participants were asked to rank in terms of desirability in a mate
+**findings:**
+- in 36/37 samples, women valued "good financial prospects" in a potential mate more than males did
+- in all samples, men preferred mates who are younger, with an average age of 24.83 (close to the peak female fertility age)
+- 34/37 samples showed that males value physical attractiveness in potential mates more than females do
+- only 23/37 samples valued chastity
+**conclusions:**
+- proved the first two points correct, but not the third
+**strengths:**
+**weaknesses:** 
+- low temporal (time) validity; done many decades ago and social norms have changes
+- uses etic approach - meaning that it is rooted in the culture of the researcher, other cultures might not put such significance on these specific aspects
+## ROGERS AND KESNER 2003
+#animalmodels #neurotransmission #rmofbiologicalapproach 
+**aim:** to determine the role of acetylcholine in the formation of spatial memory
+**procedure:**
+- had 30 rats acclimate to a maze by placing food in one of the corners
+- once the rats were familiar with the maze (and weren't afraid of it) they begun the experiment
+- rats were randomly allocated to one of two conditions; either injected with scopolamine (blocks acetylcholine receptor sites and inhibits response) or saline solution (placebo) ten minutes before running the maze, with the injection made directly into the hippocampus
+- encoding memory was assessed by the average number of errors made on the first five trials of day 1 compared to the last five trials of day 1, whereas retrieval of memory was assessed by the average number of errors made on the first five trials of day 2 compared to the last five trials of day 1
+**findings:**
+- scopolamine group took longer and made more mistakes (had higher average number of mistakes on last five trials of day 1)
+- but, it did not have a significant effect on retrieval of memories 
+**conclusions:**
+- acetylcholine may play an important role in the consolidation of spatial memory
+**strengths:**
+- used a placebo to avoid confounding variables
+- is able to establish cause and effect relationship
+**weaknesses:** 
+- questionable whether it can be generalised to humans 
+## ROMERO et al 2014
+#hormones #animalmodels #oxytocin 
+**aim:** to investigate the role of oxytocin in social bonds between mammals in non-reproductive contexts
+**procedure:**
+- 16 dogs were sprayed intra-nasally with either oxytocin or a placebo (repeated measures, double-blind counterbalanced design)
+- placed with their owner and another dog in the same room, and their behaviour was recorded by 4 cameras in 1 hour
+- room was empty except for a chair where dog owner sat; owner was instructed to move the chair in pre-designated positions in every 10 minutes, but otherwise sit quietly and not interact with the dogs
+**findings:**
+- dogs sprayed with oxytocin showed higher affiliation towards owners
+- affiliation was operationalised as sniffing, licking, gentle touching with nose or paw, play bouts and body contact
+- dogs spent more time in close proximity to their owner
+- similar results observed for the dog partner (the other dog in the room)
+**conclusions:**
+- performs the function of maintaining close social bonds in mammals
+**strengths:**
+**weaknesses:** 
+## MERZENICH 1984
+#neuroplasticity #animalmodels #corticalremapping
+**aim:** studied the cortical representation of the hand in eight adult owl monkeys
+**procedure:**
+- eight adult owl monkeys
+- sensory inputs from all the fingers were mapped in the cortex (electrodes inserted into cortical area known to be responsible for sensation from the hand, then researchers stimulated various areas on the fingers one by one and noted which electrode was responding. monkeys were anesthetised beforehand)
+- the middle finger on the monkey's hand was amputated
+- 62 days later a remapping was done to see how the cortical area responsible for sensitivity from the hand changed after amputation
+**findings:**
+- results of the first mapping showed that there were five distinct areas in the brain, each responsible for one finger, with adjacent fingers represented in adjacent areas in the cortex
+- after the finger was amputated, adjacent areas (responsible for sensitivity from digits 2 and 4) spread and occupied parts of the now unused (3) area
+- areas for 2 and 4 became larger while 1 and 5 stayed the same 
+**conclusions:**
+- cortical remapping of sensory inputs from the hand occurs within 62 days in owl monkeys
+**strengths:**
+**weaknesses:** 
+## GLANZER AND CUNTIZ 1966
+#multistoremodelofmemory #cognitiveapproach 
+**aim:** to investigate whether the interval of time between words on a list would increase number of words recalled at the start of the list. (eg primacy vs recency)
+**procedure:**
+- sample: 240 army enlisted men
+- independent samples design
+- 40 men allocated to each condition:
+	- words read once at 3sec rate
+	- words read twice at 3sec rate
+	- words read once at 6sec rate
+	- words read twice at 6sec rate
+	- words read once at 9sec rate
+	- words read twice at 9sec rate
+- participants first given two 5-word practice lists so they could learn the procedure
+- listened to recordings of eight 20-word lists, lists were the same for each group
+- all words common one-syllable words
+- participants had two minutes to write down the words they recalled in any order
+**findings:**
+- increased time interval between words led to an increase in the recall of all words in the list except for those at the end
+- effect of repetition on recall was limited to 3sec rate
+- no significant effect on recall in the 6 or 9sec rates
+**conclusions:**
+- primacy is the result of rehearsal
+- increased time interval allowed for more rehearsal, thus greater overall recall of the list of words
+- however, words in the STM were still available in working memory, no significant change in frequency of recall
+- words at end of the list are not rehearsed as often and thus decay from STM
+- supports idea that LTM and STM are separate stores
+**strengths:**
+**weaknesses:** 
