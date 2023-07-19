@@ -2,6 +2,7 @@
 title: "psychology"
 ---
 [[notes/psych/key studies|key studies]] 
+[[notes/psych/how to evaluate a theory; TEACUP|how to evaluate a theory; TEACUP]] 
 ## research methods
 [[notes/psych/research method/ethics|ethics]]
 [[notes/psych/research method/quantitative research methods|quantitative research methods]]
@@ -29,5 +30,5 @@ title: "psychology"
 ### models of memory
 [[notes/psych/cognitive approach/models of memory#multi-store model of memory (atkinson and shiffrin)|multi store model of memory]]
 [[notes/psych/cognitive approach/models of memory#working model of memory|working model of memory]]
-
-
+### schema theory
+[[notes/psych/cognitive approach/schema theory|schema theory]] 

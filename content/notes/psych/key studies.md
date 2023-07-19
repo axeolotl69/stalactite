@@ -20,6 +20,13 @@ contents
 [[#ROMERO et al 2014]]
 [[#MERZENICH 2004]]
 [[#GLANZER AND CUNITZ 1966]]
+[[#LANDRY AND BARTLING 2011]]
+[[#BRADFORD AND JOHNSON 1972]]
+[[#ANDERSON AND PICHERT 1978]]
+[[#LOFTUS AND PALMER 1974]]
+[[#YUILLE AND CUTSHALL 1986]]
+[[#SHAROT ET AL 2007]]
+[[#NEISSER AND HARSCH 1992]]
 
 template (SAQ); 
 **NAME+YEAR**
@@ -39,7 +46,7 @@ template (ERQ);
 **conclusion:** do the studies support the topic
 
 ## MAGUIRE et al 2000, London Taxi Drivers
-#localisationoffunction #neuroplasticity #rmofbiologicalapproach #biologicalapproach 
+#localisationoffunction #neuroplasticity #rmofbiologicalapproach #biologicalapproach #techniquestostudythebrain 
 **aim:** to investigate the role of the hippocampus in learning/memory in London male taxi drivers
 **procedure:** 
 - quasi experiment
@@ -63,7 +70,7 @@ template (ERQ);
 - sampling bias due to male population, difficult to generalise results
 
 ## HM: MILNER 1966
-#rmofcognitiveapproach #localisationoffunction #multistoremodelofmemory #biologicalapproach #cognitiveapproach 
+#rmofcognitiveapproach #localisationoffunction #multistoremodelofmemory #biologicalapproach #cognitiveapproach #techniquestostudythebrain 
 **aim:** to better understand the effects that the surgery had on HM
 **procedure:**
 - longitudinal case study, HM had a surgery which removed tissue from medial temporal lobe (including hippocampus)
@@ -92,7 +99,7 @@ template (ERQ);
 - retrospective; we did not know much about HM before the incident
 - hard to generalise
 ## DRAGNISKI et al 2004, juggling
-#neuroplasticity #neuralpruning #synapses #biologicalapproach 
+#neuroplasticity #neuralpruning #synapses #biologicalapproach #techniquestostudythebrain 
 **aim:** to see whether learning a new skill (juggling in this case) would have an effect on the brains of the participants
 **procedure:**
 - type of study: experimental
@@ -133,7 +140,7 @@ template (ERQ);
 **strengths:**
 **weaknesses:** authors recognised that citalopram intake induced slight nausea, which could mean that participants could work out whether they were in the experimental on control group
 ## FISHER, ARON & BROWN 2005
-#neurotransmission #biologicalapproach 
+#neurotransmission #biologicalapproach #techniquestostudythebrain 
 **aim:** to find how dopamine affects being in love (?)
 **procedure:**
 - sample: 10 men and 7 women who were currently "intensely in love" but not with each other, recruited by volunteering. mean age was 21 and mean duration of being in love was 7 months
@@ -375,7 +382,7 @@ template (ERQ);
 **strengths:**
 **weaknesses:** 
 ## GLANZER AND CUNITZ 1966
-#multistoremodelofmemory #cognitiveapproach 
+#multistoremodelofmemory #cognitiveapproach #modelsofmemory 
 **aim:** to investigate whether the interval of time between words on a list would increase number of words recalled at the start of the list. (eg primacy vs recency)
 **procedure:**
 - sample: 240 army enlisted men
@@ -401,5 +408,144 @@ template (ERQ);
 - however, words in the STM were still available in working memory, no significant change in frequency of recall
 - words at end of the list are not rehearsed as often and thus decay from STM
 - supports idea that LTM and STM are separate stores
+**strengths:**
+- standardised procedure
+- independent samples
+**weaknesses:** 
+- low ecological validity 
+
+## LANDRY AND BARTLING 2011
+#cognitiveapproach #workingmemorymodel #rmofcognitiveapproach #modelsofmemory 
+**aim:** to investigate if articulatory suppression would influence the recall of a written list of phonologically dissimilar letters in serial recall.
+**procedure:**
+- sample: 34 undergrad psych students, individually tested
+- independent samples design
+- experimental group: participants saw a list of letters that they had to recall while saying the numbers 1 and 2 at a rate of two numbers per second (articulatory suppression task - so they couldn't say things out loud)
+- control group: saw letters but did not have to carry out articulatory suppression task
+- the letters shown were chosen because they do not sound similar
+- trials were repeated ten times
+- trials were scored as correct if the letters were in the correct position
+**findings:**
+- experimental group had much lower scores than control
+- mean percentage of accurate recall in control was 76% compared to 45% in experimental
+- standard deviation for both were nearly identical: 0.13 and 0.14
+**conclusions:**
+- articulatory suppression prevents rehearsal in the phonological loop because of Overload - thus, difficulty in memorising letter strings
+**strengths:**
+**weaknesses:** 
+
+## BRADFORD AND JOHNSON 1972
+#cognitiveapproach #schematheory #effortaftermeaning #modelsofmemory
+**aim:** to determine whether schema activation would result in a better understanding and recall of an ambiguous text.
+**procedure:**
+- sample: 52 participants
+- allocated to one of three conditions: **no topic** group (heard passage w no additional info), **topic after** group (told the topic of passage after hearing it), **topic before** group (told topic of passage before hearing it)
+- all participants listened to tape-recorded passage and were told that they would later be asked to recall the passage as accurately as possible
+- all tested at the same time, but had different booklets
+- given five minutes for recall
+- all also asked to rate comprehension on scale of 1-7
+**findings:**
+- no significant difference between no topic and topic after, but significantly higher number of "ideas" recalled for topic before group, and significantly higher comprehension too
+**conclusions:**
+- prior knowledge of a situation does not guarantee its usefulness for comprehension; for prior knowledge to aid comprehension, it must become an activated semantic context
+**strengths:**
+- independent samples
+- highly controlled
+**weaknesses:** 
+- ecological validity, kinda artificial
+
+## ANDERSON AND PICHERT 1978
+#cognitiveapproach #modelsofmemory #schematheory 
+**aim:** investigated the role of schema in the encoding and recall of a story
+**procedure:**
+- sample: 39 participants...all psych students...
+- the story had 72 discreet ideas: 15 related to a burglary, 13 related to purchasing a home
+- participants randomly allocated to "robber" or "home buyer" condition
+- given two minutes to read the story as their role, then given 12 minutes to take an 84-item vocab test (filler task)
+- then asked to write down as much of the story as they could
+- given five minutes for another filler
+- then asked to recall a second time: half were told to do from the same perspective they used in the first recall, half told to use the opposing perspective
+**findings:**
+- burglr info was recalled better than homebuyer info LOL may be because students do not have a well-developed homebuyer schema
+- group that had burglar perspective recalled more burglar info and homebuyers recalled more homebuyer info
+**conclusions:**
+- schema influenced encoding
+- schema influenced retrieval
+**strengths:**
+- highly controlled
+**weaknesses:** 
+- artificial (ecological validity)
+- tiny sample
+- order effects? fatigue effects
+## LOFTUS AND PALMER 1974
+#cognitiveapproach #rmofcognitiveapproach #reconstructivememory
+**aim:** to investigate the role of leading questions in influencing the estimation of speed
+**procedure:**
+- sample: 45 students, divided into five groups
+- 7 films of traffic accidents were shown with the length of the films ranging from 5-30secs
+- independent samples; each participant watched all 7 films
+- asked to give an account of the accident they had seen and answered a questionnaire with various questions: the critical question asking them to estimate the speed of the cards involved in the accident
+- all asked the same question but included different words for different groups: "about how fast were the cars going when they ... each other", replaced with hit, collided, bumped, smashed, contacted
+**findings:**
+- mean estimates of speed highest in "smashed" condition (40.8mph)
+- lowest in "contacted" (31.8mph)
+**conclusions:**
+- two conclusions:
+	- response bias: participants uncertain about exact speed, and thus verbs like "smashed" biases their response to be higher
+	- the wording of the question changed the mental representation of the accident; thus "smashed" activates cognitive schema of sever accident
+- participant's memory of an accident could be changed by using suggestive questions
+**strengths:**
+**weaknesses:**
+## YUILLE AND CUTSHALL 1986
+#reconstructivememory #rmofcognitiveapproach #cognitiveapproach 
+**aim:** to determine whether leading questions would affect the memory of eyewitnesses at a real crime scene. 
+**procedure:**
+- crime scene; thief entered a gun shop and stole money and guns from shop. owner freed himself, went outside the shop, but the thief shot him. thief died after police arrived
+- 13 eyewitnesses agreed to be interviewed as part of a study
+- gave their account of the incident four months after the event, and were asked questions
+- two leading questions were used; half the group asked if they saw "a" broken headlight on the getaway car, half asked if they saw "the" broken headlight
+- there was no broken headlight
+- second question: "the" yellow panel vs "a" yellow panel 
+- panel was actually blue
+- asked to rate their stress on the day of the event on a seven-point scale
+**findings:**
+- eyewitnesses very reliable
+- recalled a large amount of accurate detail confirmed by police reports
+- 10/13 said there was no broken headlight or yellow quarter panel/hadn't noticed these things
+**conclusions:**
+- contradicts loftus and palmer
+- could be that the lack of emotional response in l&p played a key role in influence of leading question
+**strengths:**
+**weaknesses:** 
+## SHAROT ET AL 2007
+#cognitiveapproach #flashbulbmemory #localisationoffunction #techniquestostudythebrain 
+**aim:** to determine the potential role of biological factors on flashbulb memories.
+**procedure:** 
+- sample: 24 participants, all were in nyc on the day of 9/11
+- recruited through advertisements
+- put into an fMRI
+- while in the scanner, presented with words on a screen - "summer" and "september" were included in order to have participants link the words to the events of 9/11 
+- brain activity observed as they recalled the event
+- participants then asked to rate their memories for vividness, detail, confidence in accuracy, and arousal
+- also asked to write a description of the memories
+**findings:**
+- half of the participants reported having a "flashbulb memory", and those who did reported that they were closer to the world trade centre - they also provided more specific details
+- activation of amygdala for those closer to the event was higher recalling the events of 9/11 than the event of the preceding summer, whereas those further away from the event had similar activation of the amygdala between the two events
+**conclusions:**
+- close personal experience may be critical in the process of creating flashbulb memories
+**strengths:**
+**weaknesses:** 
+## NEISSER AND HARSCH 1992
+#rmofcognitiveapproach #cognitiveapproach #flashbulbmemory 
+**aim:** to determine whether flashbulb memories are susceptible to distortion.
+**procedure:**
+- sample: 106 -> 44 university psychology students
+- taking place the morning after the Challenger disaster, they were given a questionnaire on the events, asking questions such as "where were you" and "how did you hear about it"
+- 2 and 1/2 years later, they were given the same questionnaire, and then also asked about how accurate they thought their memory was (1-5)
+- then a few months later, an interview was held 
+**findings:**
+- after comparing the initial responses to the questionnaire to the one completed 2 1/2 years later, it was found that out of the 7 "content" questions, there was a large discrepancy amongst most participants - only 3 had their questionnaires completely match up
+**conclusions:**
+- suggests that flashbulb memories aren't as reliable as they can still be manipulated after
 **strengths:**
 **weaknesses:** 
