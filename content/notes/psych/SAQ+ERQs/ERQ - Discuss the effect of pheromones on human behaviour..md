@@ -1,13 +1,7 @@
 ---
 title: "Discuss the effect of pheromones on human behaviour."
 ---
-around 800 words 👍
-
-**intro:** "knowledge" paragraph SAQ
-**study/arg 1:** NAPFCSW - [[notes/psych/key studies#WEDEKIND et al 1995|wedekind]]
-**study/arg 2:** NAPFCSW - [[notes/psych/key studies#ZHOU et al 2014|zhou]] 
-**conclusion:** do the studies support the topic
-
+#pheromones #biologicalapproach 
 Pheromones are chemicals produced and secreted into the environment by animals, which affect the behaviour or physiology of others within its own species. They exist in all mammals, regardless of sex, and have uses including signalling that they are ready to mate. The existence of pheromones in humans, however, is largely debated, as there has been no identified pheromones within humans.  There has been much research completed on the topic; Wedekind et al 1995 did research on the effects of MHC (a set of genes related to the immune system) on human sexual attraction, while Zhou et al 2014 completed research on the effects of AND and EST on human sexual behaviour. 
 
 Wedekind et al 1995 investigated the effects of MHC, by testing whether females would rate sweaty t-shirts as more attractive if it was from a man with different MHC genes to her own. The sample included 49 females and 44 males, who had their immune system genes tested. The males were asked to wear a plain white t-shirt for two days. The t-shirts were then placed in closed boxes, and the females were asked to smell them and rate them on two factors: pleasantness and sexiness. It was found that women rated the sweaty t-shirts as more pleasant and sexy if they came from a man with different MHC genes to themselves. From this, it was then concluded that people are more likely to find a mate with different MHC genes and therefore higher difference in immune systems to their own, to ensure that their offspring will have stronger immune systems. A strength of this study was how potential extraneous variables were handled. For example, male participants were asked to use odourless soaps, to ensure that the smell of the sweaty t-shirts was unaffected by other fragrances. This allowed for the results to remain accurate. However, the links between this study to pheromones are ambiguous, as MHC is not classified as a pheromone; though it was concluded that MHC influences human attraction, it cannot be said that therefore pheromones influence human attraction.
