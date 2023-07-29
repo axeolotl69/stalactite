@@ -8,16 +8,18 @@ title: "thinking and decision making"
 
 ## systems of thinking
 ### system 1 
-- relatively fast
+- relatively **fast**
 - intuitive
 - emotional
 - seemingly automatic
 - requiring minimal cognitive effort
 - influenced by bias and schemas
 - uses associations and metaphors to quickly reach a simple representation of reality
+- often employs <u>heuristics</u> (mental shortcuts that involve focusing on one aspect of a complex problem and ignoring others)
 ### system 2
-- relatively slow
+- relatively **slow**
 - rational/logical and therefore calculated and purposeful
 - requires more cognitive effort and time
 - less influenced by prejudice, bias and schemas
 - uses reasoned beliefs and choices to slowly reach a less simple representation
+

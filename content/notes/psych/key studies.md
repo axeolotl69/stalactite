@@ -21,7 +21,7 @@ contents
 [[#MERZENICH 2004]]
 [[#GLANZER AND CUNITZ 1966]]
 [[#LANDRY AND BARTLING 2011]]
-[[#BRADFORD AND JOHNSON 1972]]
+[[#BRANSFORD AND JOHNSON 1972]]
 [[#ANDERSON AND PICHERT 1978]]
 [[#LOFTUS AND PALMER 1974]]
 [[#YUILLE AND CUTSHALL 1986]]
@@ -432,9 +432,10 @@ template (ERQ);
 **conclusions:**
 - articulatory suppression prevents rehearsal in the phonological loop because of Overload - thus, difficulty in memorising letter strings
 **strengths:**
+- easily replicable
 **weaknesses:** 
-
-## BRADFORD AND JOHNSON 1972
+- lacks ecological validity
+## BRANSFORD AND JOHNSON 1972
 #cognitiveapproach #schematheory #effortaftermeaning #modelsofmemory
 **aim:** to determine whether schema activation would result in a better understanding and recall of an ambiguous text.
 **procedure:**
@@ -495,7 +496,11 @@ template (ERQ);
 	- the wording of the question changed the mental representation of the accident; thus "smashed" activates cognitive schema of sever accident
 - participant's memory of an accident could be changed by using suggestive questions
 **strengths:**
+- confounding variables controlled
 **weaknesses:**
+- low ecological validity
+- students as sample = biased
+- students may not have driving experience, thus not representative of general population
 ## YUILLE AND CUTSHALL 1986
 #reconstructivememory #rmofcognitiveapproach #cognitiveapproach 
 **aim:** to determine whether leading questions would affect the memory of eyewitnesses at a real crime scene. 
@@ -516,7 +521,11 @@ template (ERQ);
 - contradicts loftus and palmer
 - could be that the lack of emotional response in l&p played a key role in influence of leading question
 **strengths:**
+- naturalistic (?)
+- archival evidence to confirm accuracy of memories
 **weaknesses:** 
+- not replicable
+- not generalisable
 ## SHAROT ET AL 2007
 #cognitiveapproach #flashbulbmemory #localisationoffunction #techniquestostudythebrain 
 **aim:** to determine the potential role of biological factors on flashbulb memories.
@@ -534,7 +543,11 @@ template (ERQ);
 **conclusions:**
 - close personal experience may be critical in the process of creating flashbulb memories
 **strengths:**
+- no demand characteristics!
 **weaknesses:** 
+- highly artificial thus low ecological validity
+- small sample size, culturally biased
+- correlational
 ## NEISSER AND HARSCH 1992
 #rmofcognitiveapproach #cognitiveapproach #flashbulbmemory 
 **aim:** to determine whether flashbulb memories are susceptible to distortion.
@@ -548,4 +561,32 @@ template (ERQ);
 **conclusions:**
 - suggests that flashbulb memories aren't as reliable as they can still be manipulated after
 **strengths:**
+- method triangulation - both questionnaires and interviews used
+- high ecological validity
 **weaknesses:** 
+- cannot be replicated
+- possible demand characteristics
+## GRIGGS AND COX 1982
+#cognitiveapproach #thinkingsystems #system1 
+**aim:** to see if matching bias was less commonly used to solve the Wason Selection task when the task was more personally relevant
+**procedure:**
+- sample: 144 undergrad psych students, randomly allocated to 6 groups
+- three tasks were completed (in varying order)
+- abstract task: letters and numbers
+- intermediate: colour of shirt and age
+- memory cueing: drink and age
+**findings:**
+- abstract task: 3% solved correctly
+- intermediate: 43% solved correctly
+- memory cueing: 60% solved correctly
+- when task cued memory of past experience, rational approach was used
+- more abstract and less relevant, more likely cognitive biases were used
+**conclusions:**
+- matching bias less commonly used when task was more personally relevant
+- when task is not abstract, 75% are able to correctly solve the problem, showing that system1 works well
+**strengths:**
+- has been replicated with similar results
+- repeated measures + counterbalancing
+**weaknesses:** 
+- highly artificial, thus low ecological validity
+- sampling bias (psych students)
