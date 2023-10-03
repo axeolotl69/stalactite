@@ -1,32 +1,36 @@
 ---
 title: "key studies"
 ---
-
 contents
 [[#MAGUIRE et al 2000, London Taxi Drivers]]
-[[#HM: MILNER 1966]]
+[[#HM MILNER 1966, bicycle boy]]
 [[#DRAGNISKI et al 2004, juggling]]
 [[#CROCKETT et al 2010, trolley dilemma]]
-[[#FISHER, ARON & BROWN 2005]]
-[[#SCHEELE et al 2012 (two tasks)]]
-[[#DE DREU et al 2012]]
-[[#WEDEKIND et al 1995]]
-[[#ZHOU et al 2014]]
-[[#CASPI et al 2003]] 
-[[#WEISSMAN et al 2005]]
-[[#KENDLER et al 2006]]
-[[#BUSS 1989]]
-[[#ROGERS AND KESNER 2003]]
-[[#ROMERO et al 2014]]
-[[#MERZENICH 2004]]
-[[#GLANZER AND CUNITZ 1966]]
-[[#LANDRY AND BARTLING 2011]]
-[[#BRANSFORD AND JOHNSON 1972]]
-[[#ANDERSON AND PICHERT 1978]]
-[[#LOFTUS AND PALMER 1974]]
-[[#YUILLE AND CUTSHALL 1986]]
-[[#SHAROT ET AL 2007]]
-[[#NEISSER AND HARSCH 1992]]
+[[#FISHER, ARON & BROWN 2005, dopamine and Love]]
+[[#SCHEELE et al 2012, Women]]
+[[#DE DREU et al 2012, prisoner's dilemma]]
+[[#WEDEKIND et al 1995, sweaty t-shirts]]
+[[#ZHOU et al 2014, stick figure]]
+[[#CASPI et al 2003, 5-HTT]] 
+[[#WEISSMAN et al 2005, MDD kinship]]
+[[#KENDLER et al 2006 MDD twins]]
+[[#BUSS 1989, mate selection]]
+[[#ROGERS AND KESNER 2003, rats in maze]]
+[[#ROMERO et al 2014, dogs]]
+[[#MERZENICH 1984 monkey finger]]
+[[#GLANZER AND CUNITZ 1966, words msmm]]
+[[#LANDRY AND BARTLING 2011, letters wmm]]
+[[#BRANSFORD AND JOHNSON 1972, topic schema]]
+[[#ANDERSON AND PICHERT 1978, burglar homeowner]]
+[[#LOFTUS AND PALMER 1974, cars]]
+[[#YUILLE AND CUTSHALL 1986, crime]]
+[[#SHAROT ET AL 2007, 9/11]]
+[[#NEISSER AND HARSCH 1992, the challenger]]
+[[#GRIGGS AND COX 1982, Wason selection]]
+[[#ENGLICH AND MUSSWEILER 2001, judges]]
+[[#TVERSKY AND KAHNEMANN 1974, multiplication]]
+[[#SPARROW 2011, google effect]]
+[[#ASCH 1956, conformity Lines]]
 
 template (SAQ); 
 **NAME+YEAR**
@@ -45,7 +49,15 @@ template (ERQ);
 *note - both studies can be for/against the topic*
 **conclusion:** do the studies support the topic
 
-## MAGUIRE et al 2000, London Taxi Drivers
+for **EVALUATE** erqs use TEACUP
+**T**estable
+**E**vidence
+**A**pplications
+**C**onstruct validity
+**U**nbiased
+**P**redictive ability
+
+## MAGUIRE et al 2000, London taxi drivers
 #localisationoffunction #neuroplasticity #rmofbiologicalapproach #biologicalapproach #techniquestostudythebrain 
 **aim:** to investigate the role of the hippocampus in learning/memory in London male taxi drivers
 **procedure:** 
@@ -69,7 +81,7 @@ template (ERQ);
 - quasi experiment; only correlational findings
 - sampling bias due to male population, difficult to generalise results
 
-## HM: MILNER 1966
+## HM: MILNER 1966, bicycle boy
 #rmofcognitiveapproach #localisationoffunction #multistoremodelofmemory #biologicalapproach #cognitiveapproach #techniquestostudythebrain 
 **aim:** to better understand the effects that the surgery had on HM
 **procedure:**
@@ -139,7 +151,7 @@ template (ERQ);
 - serotonin modulates reactions of the brain to emotinoally salient situations so that inflicting harm on other people is judged as less acceptable
 **strengths:**
 **weaknesses:** authors recognised that citalopram intake induced slight nausea, which could mean that participants could work out whether they were in the experimental on control group
-## FISHER, ARON & BROWN 2005
+## FISHER, ARON & BROWN 2005, dopamine and Love
 #neurotransmission #biologicalapproach #techniquestostudythebrain 
 **aim:** to find how dopamine affects being in love (?)
 **procedure:**
@@ -158,7 +170,7 @@ template (ERQ);
 - inferred that dopamine plays a role in love
 **strengths:**
 **weaknesses:** 
-## SCHEELE et al 2012 (two tasks)
+## SCHEELE et al 2012, Women
 #hormones #oxytocin #biologicalapproach 
 **aim:** to find the role of oxytocin in promoting fidelity in humans
 **procedure:** 
@@ -178,7 +190,7 @@ template (ERQ);
 **strengths:**
 - double blind, indepdendent measures
 **weaknesses:** 
-## DE DREU et al 2012
+## DE DREU et al 2012, prisoner's dilemma
 #oxytocin #biologicalapproach #hormones 
 **aim:** to investigate the effect of oxytocin on inter-group conflict and out-group conflicts
 **procedure:**
@@ -201,11 +213,11 @@ template (ERQ);
 **strengths:**
 **weaknesses:** 
 
-## WEDEKIND et al 1995
+## WEDEKIND et al 1995, sweaty t-shirts
 #pheromones #biologicalapproach #evolution 
 **aim:** to test whether a female will rate a sweaty t-shirt as more attractive if it is from a man with different immune system genes to her own
 **procedure:**
-- 49 females and 44 males tested for immune system genes
+- 49 females and 44 males tested for immune system genes (MHC)
 - males asked to wear a plain white t-shirt for 2 days
 - t-shirts then put in closed boxes until females were asked to smell them
 - females asked to rate the t-shirts for pleasantness and sexiness
@@ -222,7 +234,7 @@ template (ERQ);
 - ecologically valid(?)
 **weaknesses:** 
 - 
-## ZHOU et al 2014
+## ZHOU et al 2014, stick figure
 #pheromones #biologicalapproach 
 **aim:** to see the effect of AND and EST on heterosexual and homosexual men and women
 **procedure:**
@@ -242,7 +254,7 @@ template (ERQ);
 **weaknesses:** 
 - levels of AND and EST presented were much higher than the natural amount present in humans (questionable ecological validity)
 
-## CASPI et al 2003
+## CASPI et al 2003, 5-HTT
 #depression #biologicalapproach #genetics 
 **aim:** to determine whether there is evidence for a gene-environment interaction for a mutation of the serotonin transporter gene (5-HTT).
 **procedure:**
@@ -262,7 +274,7 @@ template (ERQ);
 **conclusions:**
 **strengths:**
 **weaknesses:** 
-## WEISSMAN et al 2005
+## WEISSMAN et al 2005, MDD kinship
 #majordepressivedisorder #biologicalapproach #genetics #kinshipstudy #geneticsimilarity
 **aim:** to investigate the potential genetic nature of Major Depressive Disorder
 **procedure:**
@@ -283,7 +295,7 @@ template (ERQ);
 - no actual genotype was studied
 - correlational
 - small sample size
-## KENDLER et al 2006
+## KENDLER et al 2006 MDD twins
 #genetics #twinstudy #biologicalapproach #majordepressivedisorder 
 **aim:** three aims...
 1.  Past studies suggest a 35-45% heritability of major depression. Would this be true in a large Swedish sample? 
@@ -309,7 +321,7 @@ template (ERQ);
 - correlational
 - large sample size
 - self-reported
-## BUSS 1989
+## BUSS 1989, mate selection
 #biologicalapproach #evolution 
 **aim:** to test three evolution-based assumptions about human mate selection: 
 1. as men are searching for women with high reproductive value, they will favour youth and physical appearance
@@ -331,13 +343,13 @@ template (ERQ);
 **weaknesses:** 
 - low temporal (time) validity; done many decades ago and social norms have changes
 - uses etic approach - meaning that it is rooted in the culture of the researcher, other cultures might not put such significance on these specific aspects
-## ROGERS AND KESNER 2003
-#animalmodels #neurotransmission #rmofbiologicalapproach 
+## ROGERS AND KESNER 2003, rats in maze
+#animalmodels #neurotransmission #rmofbiologicalapproach #antagonist 
 **aim:** to determine the role of acetylcholine in the formation of spatial memory
 **procedure:**
 - had 30 rats acclimate to a maze by placing food in one of the corners
 - once the rats were familiar with the maze (and weren't afraid of it) they begun the experiment
-- rats were randomly allocated to one of two conditions; either injected with scopolamine (blocks acetylcholine receptor sites and inhibits response) or saline solution (placebo) ten minutes before running the maze, with the injection made directly into the hippocampus
+- rats were randomly allocated to one of two conditions; either injected with scopolamine (blocks acetylcholine receptor sites and inhibits response, antagonist) or saline solution (placebo) ten minutes before running the maze, with the injection made directly into the hippocampus
 - encoding memory was assessed by the average number of errors made on the first five trials of day 1 compared to the last five trials of day 1, whereas retrieval of memory was assessed by the average number of errors made on the first five trials of day 2 compared to the last five trials of day 1
 **findings:**
 - scopolamine group took longer and made more mistakes (had higher average number of mistakes on last five trials of day 1)
@@ -349,7 +361,7 @@ template (ERQ);
 - is able to establish cause and effect relationship
 **weaknesses:** 
 - questionable whether it can be generalised to humans 
-## ROMERO et al 2014
+## ROMERO et al 2014, dogs
 #hormones #animalmodels #oxytocin 
 **aim:** to investigate the role of oxytocin in social bonds between mammals in non-reproductive contexts
 **procedure:**
@@ -365,7 +377,7 @@ template (ERQ);
 - performs the function of maintaining close social bonds in mammals
 **strengths:**
 **weaknesses:** 
-## MERZENICH 1984
+## MERZENICH 1984 monkey finger
 #neuroplasticity #animalmodels #corticalremapping
 **aim:** studied the cortical representation of the hand in eight adult owl monkeys
 **procedure:**
@@ -381,7 +393,7 @@ template (ERQ);
 - cortical remapping of sensory inputs from the hand occurs within 62 days in owl monkeys
 **strengths:**
 **weaknesses:** 
-## GLANZER AND CUNITZ 1966
+## GLANZER AND CUNITZ 1966, words msmm
 #multistoremodelofmemory #cognitiveapproach #modelsofmemory 
 **aim:** to investigate whether the interval of time between words on a list would increase number of words recalled at the start of the list. (eg primacy vs recency)
 **procedure:**
@@ -414,7 +426,7 @@ template (ERQ);
 **weaknesses:** 
 - low ecological validity 
 
-## LANDRY AND BARTLING 2011
+## LANDRY AND BARTLING 2011, letters wmm
 #cognitiveapproach #workingmemorymodel #rmofcognitiveapproach #modelsofmemory 
 **aim:** to investigate if articulatory suppression would influence the recall of a written list of phonologically dissimilar letters in serial recall.
 **procedure:**
@@ -435,7 +447,7 @@ template (ERQ);
 - easily replicable
 **weaknesses:** 
 - lacks ecological validity
-## BRANSFORD AND JOHNSON 1972
+## BRANSFORD AND JOHNSON 1972, topic schema
 #cognitiveapproach #schematheory #effortaftermeaning #modelsofmemory
 **aim:** to determine whether schema activation would result in a better understanding and recall of an ambiguous text.
 **procedure:**
@@ -454,15 +466,14 @@ template (ERQ);
 - highly controlled
 **weaknesses:** 
 - ecological validity, kinda artificial
-
-## ANDERSON AND PICHERT 1978
+## ANDERSON AND PICHERT 1978, burglar homeowner
 #cognitiveapproach #modelsofmemory #schematheory 
 **aim:** investigated the role of schema in the encoding and recall of a story
 **procedure:**
 - sample: 39 participants...all psych students...
 - the story had 72 discreet ideas: 15 related to a burglary, 13 related to purchasing a home
 - participants randomly allocated to "robber" or "home buyer" condition
-- given two minutes to read the story as their role, then given 12 minutes to take an 84-item vocab test (filler task)
+- given two minutes to **read** the story as their role, then given 12 minutes to take an 84-item vocab test (filler task)
 - then asked to write down as much of the story as they could
 - given five minutes for another filler
 - then asked to recall a second time: half were told to do from the same perspective they used in the first recall, half told to use the opposing perspective
@@ -478,7 +489,7 @@ template (ERQ);
 - artificial (ecological validity)
 - tiny sample
 - order effects? fatigue effects
-## LOFTUS AND PALMER 1974
+## LOFTUS AND PALMER 1974, cars
 #cognitiveapproach #rmofcognitiveapproach #reconstructivememory
 **aim:** to investigate the role of leading questions in influencing the estimation of speed
 **procedure:**
@@ -501,7 +512,7 @@ template (ERQ);
 - low ecological validity
 - students as sample = biased
 - students may not have driving experience, thus not representative of general population
-## YUILLE AND CUTSHALL 1986
+## YUILLE AND CUTSHALL 1986, crime
 #reconstructivememory #rmofcognitiveapproach #cognitiveapproach 
 **aim:** to determine whether leading questions would affect the memory of eyewitnesses at a real crime scene. 
 **procedure:**
@@ -526,7 +537,7 @@ template (ERQ);
 **weaknesses:** 
 - not replicable
 - not generalisable
-## SHAROT ET AL 2007
+## SHAROT ET AL 2007, 9/11
 #cognitiveapproach #flashbulbmemory #localisationoffunction #techniquestostudythebrain 
 **aim:** to determine the potential role of biological factors on flashbulb memories.
 **procedure:** 
@@ -548,7 +559,7 @@ template (ERQ);
 - highly artificial thus low ecological validity
 - small sample size, culturally biased
 - correlational
-## NEISSER AND HARSCH 1992
+## NEISSER AND HARSCH 1992, the challenger
 #rmofcognitiveapproach #cognitiveapproach #flashbulbmemory 
 **aim:** to determine whether flashbulb memories are susceptible to distortion.
 **procedure:**
@@ -566,8 +577,8 @@ template (ERQ);
 **weaknesses:** 
 - cannot be replicated
 - possible demand characteristics
-## GRIGGS AND COX 1982
-#cognitiveapproach #thinkingsystems #system1 
+## GRIGGS AND COX 1982, Wason selection
+#cognitiveapproach #thinkingsystems #dualprocessingmodel 
 **aim:** to see if matching bias was less commonly used to solve the Wason Selection task when the task was more personally relevant
 **procedure:**
 - sample: 144 undergrad psych students, randomly allocated to 6 groups
@@ -590,3 +601,85 @@ template (ERQ);
 **weaknesses:** 
 - highly artificial, thus low ecological validity
 - sampling bias (psych students)
+## ENGLICH AND MUSSWEILER 2001, judges
+#biasesinthinkinganddecisionmaking #cognitivebiases #cognitiveapproach #dualprocessingmodel #anchoringbias
+**aim:** to determine the effect of a prosecutor's suggestion for sentencing on the decision-making of a judge.
+**procedure:**
+- sample: 19 young trial judges (independent samples), little experience
+- given a case of alleged rape, participants were given case materials and asked to read through and form an opinion. after, they were given a questionnaire - half were told the prosecutor demanded 34 months sentences and other half were told 2 month sentence
+- then asked questions about their recommended sentence, how certain they were, and how realistic they thought the case was
+**findings:**
+- judges reported low certainty levels
+- 2 months: avg sentence was 18ish months
+- 34 months: 28ish months
+**conclusions:**
+- anchoring bias is present
+- given a lower demand for months sentenced, judges were more inclined to give a lower sentence etc
+**strengths:**
+- advice was sought from highly experienced trial judges
+- case material tested on senior law students (pilot group) - avg was 17ish months
+**weaknesses:** 
+- independent samples = participant variability = confounding variables
+- small sample size
+## TVERSKY AND KAHNEMANN 1974, multiplication
+#biasesinthinkinganddecisionmaking #cognitivebiases #cognitiveapproach #anchoringbias 
+**aim:** to investigate the effects of anchoring bias on the estimation of an equation
+**procedure:**
+- sample: high school students
+- half were shown the equation 1 x 2 x 3 x 4 x 5 x 6 x 7 x 8
+- other half were shown 8 x 7 x 6 x 5 x 4 x 3 x 2 x 1 
+- asked to quickly estimate the value
+**findings:**
+- those who were shown the "ascending" equation estimated a lower mean (512) than those who were shown the "descending" equation (2250)
+**conclusions:**
+- since equations are read left to right, the first number is used as an anchor and thus those who had "1" would estimate lower than "8"
+**strengths:**
+- easily replicated
+**weaknesses:** 
+- low ecological validity
+## SPARROW 2011, google effect
+#cognitiveapproach #digitaltechnologyandcognitiveprocessing 
+#googleeffect
+**aim:** to investigate the effects of technology on cognition
+**procedure:**
+- sample: sixty undergraduate students at Harvard
+- asked to type 40 facts into a computer, some were well known and some were more surprising
+- 2x2 independent samples design; half were told the data could be saved into the computer, half were told that it would be erased. half were told to remember the information, half were not (four separate conditions in total)
+- asked to recall as many facts as they could in 10 minutes
+- then given a recognition task to see if they could recall which facts were shown
+**findings:**
+- asking to remember the information made no significant difference on how well they remembered
+- but there was a significant difference in recollection on those who were told the information would be saved vs those who were told the information would be erased
+- those who were told the information would be saved did not remember as many facts as the others
+**conclusions:**
+- google effect is real; if one knows that information is stored elsewhere they will make less effort to store and remember the information
+**strengths:**
+- ????
+**weaknesses:** 
+- replications of this study have provided results that contradict sparrow's, thus the validity of this study can be questioned
+- low ecological validity - these facts are trivia, and may not be important to participants
+## ASCH 1956, conformity Lines
+#conformity #socioculturalapproach
+**aim:** to investigate the influence of normative social influence on one's likelihood to conform in an unambiguous task
+**procedure:**
+- 123 male students in the USA, told that they were undertaking a vision test (deception)
+- IV: unanimous incorrect response
+- DV: level of conformity (agreeing with incorrect response)
+- naive participant + six participants
+- presented a line, and asked to say out loud the line number they thought matches the length of the original line
+- confederates asked to sometimes say the incorrect answer
+- interviews carried out after the experiment
+**findings:**
+- 75% participants conformed at least once
+- during interviews, multiple reasons for conforming were given:
+	- thought that they were wrong
+	- unsure of their answer
+	- didn't want to be ridiculed by the group
+**conclusions:**
+- even though many participants thought they were right, they changed their behaviour to match everyone else's. suggests that people conform and comply with majority
+**strengths:**
+- used a control group, where only the participant was present with no confederates
+- easily replicable
+**weaknesses:** 
+- low ecological validity
+- biased sample

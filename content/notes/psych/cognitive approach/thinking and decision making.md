@@ -23,3 +23,14 @@ title: "thinking and decision making"
 - less influenced by prejudice, bias and schemas
 - uses reasoned beliefs and choices to slowly reach a less simple representation
 
+# cognitive bias
+- a systematic error in thinking that occurs when people are processing information from the world around them which then affects both thinking and decision making
+**NOTE**: in IB, only have to know ==one== bias, so just focus on ==one==
+### anchoring bias
+- describes the common tendency to rely too heavily on the first piece of information we are offered (the "anchor") when making decisions
+- when individuals use an initial piece of information to make subsequent judgements
+### framing effect
+- the way decisions are made based on the way they are presented or "framed"
+- more willing to take risks to **avoid loss** and have a tendency to **avoid risk** associated with gains
+### confirmation bias
+- 

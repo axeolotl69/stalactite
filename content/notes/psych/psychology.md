@@ -32,3 +32,12 @@ title: "psychology"
 [[notes/psych/cognitive approach/models of memory#working model of memory|working model of memory]]
 ### schema theory
 [[notes/psych/cognitive approach/schema theory|schema theory]] 
+### reconstructive memory
+[[notes/psych/cognitive approach/reconstructive memory|reconstructive memory]]
+### emotions and cognition
+[[notes/psych/cognitive approach/emotions and cognition|flashbulb memories]]
+### thinking and decision making
+[[notes/psych/cognitive approach/thinking and decision making|thinking and decision making]]
+## sociocultural approach
+### conformity
+[[notes/psych/sociocultural approach/conformity|conformity]]
