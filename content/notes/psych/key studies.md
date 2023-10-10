@@ -659,7 +659,7 @@ for **EVALUATE** erqs use TEACUP
 - replications of this study have provided results that contradict sparrow's, thus the validity of this study can be questioned
 - low ecological validity - these facts are trivia, and may not be important to participants
 ## ASCH 1956, conformity Lines
-#conformity #socioculturalapproach
+#conformity #socioculturalapproach #socialidentitytheory
 **aim:** to investigate the influence of normative social influence on one's likelihood to conform in an unambiguous task
 **procedure:**
 - 123 male students in the USA, told that they were undertaking a vision test (deception)
@@ -683,3 +683,21 @@ for **EVALUATE** erqs use TEACUP
 **weaknesses:** 
 - low ecological validity
 - biased sample
+## DRURY ET AL 2009, vr manchester trains 
+#socialidentitytheory #socioculturalapproach 
+**aim:** to investigate the role of social identity theory in pro-social behaviour.
+**procedure:** 
+- sample; 40 students, age 20-25
+- independent samples
+- used vr simulator to simulate the london metro, needing to escape a fire
+- they could push people out of the way or help people
+- participants were primed by either being given a scenario about watching a football game and going home with other fans (in-group) or going shopping alone and going home (no in-group)
+**findings:**
+- those with the in-group identification were more likely to help others than those who did not have in-group identification
+**conclusions:**
+- altruistic behaviour is more likely to be shown when one has a strong in-group identification
+**strengths:**
+- replicable, showing reliability of results
+- ethical, does not cause undue stress or harm etc
+**weaknesses:** 
+- ecological validity; using vr may not be realistic and participants did not feel like they were in danger

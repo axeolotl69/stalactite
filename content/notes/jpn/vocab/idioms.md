@@ -44,3 +44,6 @@ title: "idioms"
 穴があったら入りたい
 - "<mark style="background: #90BE6D;">i'm so embarassed</mark> (i want to climb into a hole)"
 
+十人十色
+- variety, diversity
+

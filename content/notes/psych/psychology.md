@@ -1,5 +1,5 @@
 ---
-title: "psychology"
+title: psychology
 ---
 [[notes/psych/key studies|key studies]] 
 [[notes/psych/how to evaluate a theory; TEACUP|how to evaluate a theory; TEACUP]] 
@@ -27,17 +27,14 @@ title: "psychology"
 ### evolution
 [[notes/psych/biological approach/evolutionary explanations for behaviour|evolutionary explanations for behaviour]] 
 ## cognitive approach
-### models of memory
+### cognitive processing
 [[notes/psych/cognitive approach/models of memory#multi-store model of memory (atkinson and shiffrin)|multi store model of memory]]
 [[notes/psych/cognitive approach/models of memory#working model of memory|working model of memory]]
-### schema theory
 [[notes/psych/cognitive approach/schema theory|schema theory]] 
-### reconstructive memory
-[[notes/psych/cognitive approach/reconstructive memory|reconstructive memory]]
-### emotions and cognition
-[[notes/psych/cognitive approach/emotions and cognition|flashbulb memories]]
-### thinking and decision making
 [[notes/psych/cognitive approach/thinking and decision making|thinking and decision making]]
+### reliability of cognitive processes
+[[notes/psych/cognitive approach/reconstructive memory|reconstructive memory]]
+[[notes/psych/cognitive approach/emotions and cognition|flashbulb memories]]
 ## sociocultural approach
-### conformity
-[[notes/psych/sociocultural approach/conformity|conformity]]
+### individual and the group
+[[notes/psych/sociocultural approach/social identity theory|social identity theory]]
