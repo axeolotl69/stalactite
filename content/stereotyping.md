@@ -1,3 +1,12 @@
 ---
 title: stereotypes
 ---
+- can be positive or negative, a generalisation about a certain group of people
+- can be linked to:
+	- [[notes/psych/sociocultural approach/social identity theory|social identity theory]]
+	- [[notes/psych/sociocultural approach/social cognitive theory|social cognitive theory]]
+	- [[notes/psych/cognitive approach/schema theory|schema theory]]
+	- [[notes/psych/cognitive approach/thinking and decision making#system 1|system 1 thinking]]
+	- heuristics
+	- various biases
+- 

@@ -34,6 +34,7 @@ contents
 [[#DRURY ET AL 2009, vr manchester trains]]
 [[#BANDURA 1961, bobo dolls]]
 [[#JOY, KIMBALL & ZABRACK 1986, video games and violence]]
+[[#ROSENTHAL AND JACOBSON 1968, teachers and bloomers]]
 
 template (SAQ); 
 **NAME+YEAR**
@@ -745,3 +746,41 @@ for **EVALUATE** erqs use TEACUP
 **weaknesses:** 
 - internal validity was low - many uncontrolled variables
 - may not be reliable, difficult to generalise
+## ROSENTHAL AND JACOBSON 1968, teachers and bloomers
+#stereotypes #socioculturalapproach 
+**aim:** to determine whether or not teachers' expectations of students' performance affected the students' learning throughout the course of the year
+**procedure:**
+- out of a class of elementary school students, teachers were told that a certain amount were likely to be "academic bloomers" in the coming year based on the results of an academic test
+- in reality, there wasn't a test and the students were chosen randomly
+- researchers observed the classroom dynamics throughout the year
+- at the end of the year the students all took an IQ test
+**findings:**
+- students chosen as "bloomers" demonstrated an increase in IQ, gaining higher scores than their peers
+**conclusions:**
+- teachers' perceptions of the students' ability affected the way the teachers interacted with the students, making the predictions of the students' ability come true (self-fulfilling prophecy)
+**strengths:**
+- high ecological validity - held in a real classroom environment with real students and teachers
+- single blind experiment - participants not aware
+**weaknesses:** 
+- confounding variables that were not controlled
+- lack of consent and also deception and also undue stress or harm and also right to withdraw and also
+## STEELE AND ARONSON 1995
+#stereotypes #socioculturalapproach 
+**aim:** to investigate the effect of stereotype threat on performance (stereotype threat: the idea that stereotypes can affect the behaviour of an individual even if they do not believe in the stereotype)
+**procedure:**
+- was given a 30 minute verbal test made up of difficult multiple choice questions
+- one group was told it was a genuine test of verbal ability 
+- in another group, where they were not told it was a test of their ability
+- in another version of the experiment, some participants were required to fill in a questionnaire where it asked to identify their race
+**findings:**
+- one group was told it was a genuine test of verbal ability - african american participants scored significantly lower than european american participants
+- in another group, where they were not told it was a test of their ability, african american students scored higher than african american students in the first group, and also were not significantly different from their european american counterparts
+- when asked to identify their race, african americans did poorly compared to african americans who did not have to identify their race
+**conclusions:**
+- stereotypes surrounding the verbal ability of african americans negatively affected their scores on the test
+- whether or not the participants believed in the stereotypes, the amount of anxiety may increase and performance will therefore decrease 
+**strengths:**
+- standardized test/instructions
+**weaknesses:** 
+- low ecological validity (lacks realism)
+- not a representative sample (only uni students)
