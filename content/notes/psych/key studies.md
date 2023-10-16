@@ -31,6 +31,9 @@ contents
 [[#TVERSKY AND KAHNEMANN 1974, multiplication]]
 [[#SPARROW 2011, google effect]]
 [[#ASCH 1956, conformity Lines]]
+[[#DRURY ET AL 2009, vr manchester trains]]
+[[#BANDURA 1961, bobo dolls]]
+[[#JOY, KIMBALL & ZABRACK 1986, video games and violence]]
 
 template (SAQ); 
 **NAME+YEAR**
@@ -695,9 +698,50 @@ for **EVALUATE** erqs use TEACUP
 **findings:**
 - those with the in-group identification were more likely to help others than those who did not have in-group identification
 **conclusions:**
-- altruistic behaviour is more likely to be shown when one has a strong in-group identification
+- altruistic behaviour is more likely to be shown when one has a strong in-group identification towards those within the same group
 **strengths:**
 - replicable, showing reliability of results
 - ethical, does not cause undue stress or harm etc
 **weaknesses:** 
 - ecological validity; using vr may not be realistic and participants did not feel like they were in danger
+## BANDURA 1961, bobo dolls
+#socioculturalapproach #socialcognitivetheory 
+**aim:** to investigate whether children could learn aggressive behaviours by watching the behaviour of adults
+**procedure:**
+- 72 young boys and girls, using matched pairs of aggressiveness levels
+- put into a room with toys and a bobo (inflatable) doll
+- control group: no model, group exposed to aggressive model, group exposed to passive model
+- another variable was whether the model was the same sex as the participants or not
+- stage one: in non-aggressive condition, model quietly played with blocks, in aggressive condition, model was aggressive towards the doll
+- stage two: mild aggression arousal; children were told they couldn't play with the toys
+- stage three: brought to a room with the choice of non-aggressive and aggressive toys, children were observed through a one-way mirror
+**findings:**
+- aggressive condition made more aggressive acts than non-aggressive condition
+- boys made more aggressive acts than girls, and boys with a male model made more aggressive acts than boys with a female model
+**conclusions:**
+- children can learn aggressive behaviours, especially when the model is more similar to them (same sex)
+**strengths:**
+- matched pairs, controlling more variables
+- also provides evidence for the motivation factor of SCT
+**weaknesses:** 
+- ethical concerns, undue stress or harm, consent
+- small sample size
+- lacks ecological validity
+## JOY, KIMBALL & ZABRACK 1986, video games and violence
+#socialcognitivetheory #socioculturalapproach 
+**aim:** to investigate the impact of television on children's aggressive behaviour by carrying out a longitudinal natural experiment
+**procedure:**
+- conducted in three small towns in Canada, where television was recently introduced
+- psychologists observed both physical and verbally aggressive behaviour displayed by elementary school children on the playground a year before a television channel was accessible, and then two years after the channel was accessible
+- 120 children in the sample
+- teacher and peer ratings of aggressive behaviour and information about television viewing habits were obtained
+**findings:**
+- aggressive behaviour in this town increased significantly after the introduction of the television channel
+**conclusions:**
+- television had an impact on the level of aggression shown by children, due to heightened arousal obtained when watching television
+**strengths:**
+- 
+- data triangulation
+**weaknesses:** 
+- internal validity was low - many uncontrolled variables
+- may not be reliable, difficult to generalise

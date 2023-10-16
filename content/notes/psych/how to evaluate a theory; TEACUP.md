@@ -6,7 +6,7 @@ is the theory testable and falsifiable? can the theory be tested using standardi
 ## empirical evidence
 evidence supporting the theory should be replicable and grounded in scientific research, not post-hoc or anecdotal
 ## applicable
-should be applicable to different situations and inform practice irl
+should be applicable to different situations and inform practice irl. heuristic validity?
 ## construct validity
 theories operationalise psychological constructs (phenomena) based on observations; it the theory truly testing/measuring the construct it intends on testing? does it clearly and accurately define the construct
 ## unbiased
