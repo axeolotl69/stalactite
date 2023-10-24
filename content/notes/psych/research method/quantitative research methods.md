@@ -100,7 +100,7 @@ title: "quantitative research methods"
 - use <mark style="background: #d96d3f;">triangulation</mark> in order to increase validity - includes <mark style="background: #d96d3f;">method and data triangulation</mark>
 	- method triangulation: using multiple methods of investigation to explore the same phenomenon
 - case studies are holistic and naturalistic
-	- <mark style="background: #d96d3f;">holistic:</mark> oftern concerned with descriptions of people's experiences, feelings, or thoughts about a topic under investigation, but can also include measurements like blood testing, IQ scores, or survey data
+	- <mark style="background: #d96d3f;">holistic:</mark> often concerned with descriptions of people's experiences, feelings, or thoughts about a topic under investigation, but can also include measurements like blood testing, IQ scores, or survey data
 - may be retrospective (looking at past behaviour) or prospective (looking at behaviour from the beginning of a case study into the future)
 - often focuses on a limited aspect of behaviour
 - <u>limitations:</u> 
