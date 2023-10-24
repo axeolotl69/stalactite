@@ -3,6 +3,7 @@ title: psychology
 ---
 [[notes/psych/key studies|key studies]] 
 [[notes/psych/how to evaluate a theory; TEACUP|how to evaluate a theory; TEACUP]] 
+[[notes/psych/exam help/paper 3 guide|paper 3 guide]] 
 ## research methods
 [[notes/psych/research method/ethics|ethics]]
 [[notes/psych/research method/quantitative research methods|quantitative research methods]]
