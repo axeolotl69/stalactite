@@ -35,6 +35,8 @@ contents
 [[#BANDURA 1961, bobo dolls]]
 [[#JOY, KIMBALL & ZABRACK 1986, video games and violence]]
 [[#ROSENTHAL AND JACOBSON 1968, teachers and bloomers]]
+[[#BERRY 1967, collectivist or individualist and conformity]]
+[[#KULKOFSKY ET AL 2011, c vs i and flashbulb memory]]
 
 template (SAQ); 
 **NAME+YEAR**
@@ -784,3 +786,52 @@ for **EVALUATE** erqs use TEACUP
 **weaknesses:** 
 - low ecological validity (lacks realism)
 - not a representative sample (only uni students)
+## BERRY 1967, c vs i and conformity
+#socioculturalapproach #conformity #culturaldimensions 
+**aim:** to investigate the level of conformity in collectivist and individualist cultures.
+**procedure:**
+- sample:
+	- temne people of sierra leone (collectivist)
+	- inuit people of canada (individualist)
+	- scots (control)
+- used <u>asch's paradigm</u>, where participants were asked to choose a line that matched the length of the top line
+- on the third test, they were told beforehand that someone from their culture had chosen a line - this line was the correct one
+- however, for the next three tests, they were told that someone from their culture had chosen a line that was obviously the wrong answer
+**findings:**
+- temne had higher rate of conformity, where they were more likely to choose the line that they thought other temne people had chosen even if it was obviously wrong
+- scots had lower rates of conformity than temne
+- inuits had lower rates of conformity than scots
+**conclusions:**
+- those from a collectivist culture are more likely to conform than those in an individualist culture
+- this aligns with hofstede's dimensions; collectivist cultures are more group-oriented and therefore hold conformity to a higher level of significance than individualist cultures which rely less on the group and more on the individual
+**strengths:**
+- used a control group, strengthening the internal validity of the study
+- standardised instructions were given in the native language of the participants, in order to minimise confusion (controlled variables)
+- highly replicable
+**weaknesses:** 
+- lacks ecological validity (lines...)
+- temporal validity; whether this still holds true today 
+## KULKOFSKY ET AL 2011, c vs i and flashbulb memory
+#socioculturalapproach #flashbulbmemory #culturaldimensions 
+**aim:** to investigate the role of culture on flashbulb memories.
+**procedure:**
+- 274 adults from five countries: 
+	- china
+	- usa
+	- uk
+	- turkey
+	- germany
+- participants given five minutes to recall as many memories as possible of public events during their lifetime
+- then they were asked questions about those events, such as "where were you when you learned of the event" and "who were you with"
+- then they were asked questions about the importance of the event to them personally, such as "how personally important was the event"
+**findings:**
+- in collectivist cultures such as china, personal relevance and importance played less of a role in the formation of flashbulb memories compared to individualist cultures
+**conclusions:**
+- in individualist cultures, there is more emphasis on the individual's experiences, so the more important and relevant an event is to the individual the more likely a flashbulb memory will form
+- in collectivist cultures, there is less emphasis on the individual's experiences and more emphasis on the group's; thus, individual relevance and importance is not as important in the development of a flashbulb memory
+**strengths:**
+- the test and the questionnaire was given in the native language of the participants (controlled variables)
+- utilised back-translation to ensure the translations were accurate; increases credibility of the study
+**weaknesses:** 
+- ecological fallacy; just because the participant comes from the culture being studied, this doesn't mean they will share the traits of the culture's predominant dimensions
+- participant variability follows after that

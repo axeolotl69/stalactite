@@ -40,4 +40,4 @@ title: psychology
 ### individual and the group
 [[notes/psych/sociocultural approach/social identity theory|social identity theory]]
 [[notes/psych/sociocultural approach/social cognitive theory|social cognitive theory]]
-[[stereotyping]]
+[[notes/psych/sociocultural approach/stereotyping|stereotyping]]

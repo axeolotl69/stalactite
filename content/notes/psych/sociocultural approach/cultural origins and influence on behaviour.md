@@ -1,0 +1,25 @@
+---
+title: cultural origins and influence on behaviour
+---
+- culture:
+- cultural norms: 
+- deep culture / surface culture:
+- <u>Hofstede's cultural dimensions</u>: commonly held values of a group or society that affect behaviour
+## individualism / collectivism
+- on a spectrum
+- *speak to two characteristics each; two for individualistic and two for collectivist*
+- **individualistic cultures** value achievement, uniqueness, and independence
+	- speaking one's mind is important
+	- freedom and autonomy
+	- self-actualisation is a goal
+	- everyone has a right to privacy
+	- rule-breaking leads to guilt and loss of self-respect
+	- self-reliance is seen as a virtue
+- **collectivist cultures** value social harmony, tradition, and interdependence
+	- modesty
+	- self is defined by group membership
+	- common fate/history guide one's decision making
+	- advancing the interests of the group is the goal
+	- privacy is not expected
+	- rule-breaking leads to shame/loss of face
+	- shared responsibility
