@@ -19,3 +19,5 @@ title: enculturation + acculturation
 ### acculturative stress
 - the psychological impact of adaption or **acculturation** to a new culture. 
 - aka Culture Shock
+### acculturative gaps
+- generational differences in **acculturation** and how this leads to conflict within the family
