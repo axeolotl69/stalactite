@@ -37,6 +37,8 @@ contents
 [[#ROSENTHAL AND JACOBSON 1968, teachers and bloomers]]
 [[#BERRY 1967, collectivist or individualist and conformity]]
 [[#KULKOFSKY ET AL 2011, c vs i and flashbulb memory]]
+[[#ODDEN AND ROCHAT 2004, samoa and fish]]
+[[#FAGOT 1978, babies and gender roles]]
 
 template (SAQ); 
 **NAME+YEAR**
@@ -835,3 +837,40 @@ for **EVALUATE** erqs use TEACUP
 **weaknesses:** 
 - ecological fallacy; just because the participant comes from the culture being studied, this doesn't mean they will share the traits of the culture's predominant dimensions
 - participant variability follows after that
+## ODDEN AND ROCHAT 2004, samoa and fish
+#socioculturalapproach #enculturation #socialcognitivetheory 
+**aim:** to investigate the role of SCT on the development of cultural norms in Samoa
+**procedure/findings:**
+- longitudinal study of 25 months on 28 children in one small samoan village
+- through interviews and observations, they found that young males observed how the older men fished, but there was no direct instruction
+	- by the age of 12 they were able to fish on their own
+- no direct instruction on hierarchical structures too, but found that majority of the 12 year olds they tested were able to complete a multiple choice quiz about the rules and concepts of their society accurately
+**conclusions:**
+- cultural norms are not necessarily taught with direct instruction, but can also be learnt through social and cultural learning
+**strengths:**
+- high ecological validity?
+**weaknesses:** 
+- low external validity; can these findings be generalised to other cultures or even other samoan villages?
+## FAGOT 1978, babies and gender roles
+#socioculturalapproach #enculturation 
+**aim:** to investigate the role that parents play in gender-role development
+**procedure:**
+- sample was 24 (white) families, 12 with a boy and 12 with a girl
+- each family had a child between 20 and 24 months 
+- carried out observations of interactions between parents and children; behaviours by children and reactions by parents
+- each parent was asked to rate the behaviours as more appropriate for girls, for boys, or neutral
+**findings:**
+- boys more likely to be left alone by parents than girls
+- parents gave praise to boys who played with blocks more than girls who played with blocks
+- parents gave girls more negative responses when manipulating an object more than they did with boys
+- parents gave more positive responses to girls than boys for playing with dolls and more negative responses to boys
+- parents criticised girls more when they participated in large motor activities
+- parents gave more positive responses to girls than boys when they asked for help and a more negative response to boys
+**conclusions:**
+- shows that children are able to learn gender roles, through their parents directly instructing them with their reactions, or social learning where the gauge the responses of their parents and react accordingly 
+**strengths:**
+- high ecological validity; a naturalistic study
+- researcher triangulation and high inter-rater reliability; two observers were used
+**weaknesses:** 
+- sample bias; only white families
+- demand characteristics; families knew they were being watched
