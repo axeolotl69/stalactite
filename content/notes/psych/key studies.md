@@ -39,6 +39,8 @@ contents
 [[#KULKOFSKY ET AL 2011, c vs i and flashbulb memory]]
 [[#ODDEN AND ROCHAT 2004, samoa and fish]]
 [[#FAGOT 1978, babies and gender roles]]
+[[#MIRANDA AND MATHENY 2000, latino immigrants in usa]]
+[[#LEUCK AND WILSON 2010, asian immigrants s in usa]]
 
 template (SAQ); 
 **NAME+YEAR**
@@ -874,3 +876,52 @@ for **EVALUATE** erqs use TEACUP
 **weaknesses:** 
 - sample bias; only white families
 - demand characteristics; families knew they were being watched
+## MIRANDA AND MATHENY 2000, latino immigrants in usa
+#acculturation #socioculturalapproach 
+**aim:** to investigate which factors in the lives of Latino immigrants to the united states would decrease the level of acculturative stress
+**procedure:**
+- sample of around 200 latino immigrants
+- completed a questionnaire and a series of standardised tests which assessed:
+	- family cohesion
+	- level of acculturation
+	- acculturative stress
+	- coping strategies for stress
+**findings/conclusions:**
+- those with effective coping strategies, good proficiency in english, and strong family cohesion were <u>less likely</u> to experience acculturative stress
+- those who had spent a longer time in the us were less likely to demonstrate this stress and show a higher level of acculturation
+**strengths:**
+- standardised questionnaires and survets
+- given in their native language and removes confusion (removing confounding variable)
+**weaknesses:** 
+- generalisability is Low
+- concept of "acculturative stress" can be subjective from person to person; same with level of english proficiency and effective coping skills etc
+## LEUCK AND WILSON 2010, asian immigrants s in usa
+#acculturation #socioculturalapproach 
+**aim:** to investigate the variables that may predict acculturative stress in a nationally representative sample of asian immigrants and asian americans
+**procedure:**
+- sample: around 2000 asian americans, either first gen immigrants or born to first gen immigrants
+	- included several asian cultures including chinese, filipino, vietnamese
+- semi-structured interviews: interviewers had similar cultural and linguistic backgrounds to participants (to minimise lack of understanding), conducted via internet or face-to-face
+	- randomly selected sample of participants was contacted to validate the data taken from their interviews
+- measured:
+	- level of acculturative stress
+	- impact of language proficiency
+	- language preference
+	- discrimination
+	- social networks
+	- family cohesion
+	- socio-economic status
+**findings/conclusion:**
+- 70% of participants had some level of acculturative stress
+- bilingual language preference contributed to lower acculturative stress
+- HOWEVER the preference for speaking english <u>only</u> is a predictor of high acculturative stress
+- discrimination = high stress
+- high family cohesion = less stress
+- economic good = less stress
+**strengths:**
+- semi structured; standardised questions are asked, however further questions can be asked to expand on certain responses
+- very large sample, and is diverse
+**weaknesses:** 
+- interviewer effects 
+- potential demand characteristics
+- all the values measured are subjective
