@@ -1,7 +1,7 @@
 ---
 title: cultural origins and influence on behaviour
 ---
-- culture:
+- culture: made up of a set of attitudes, behaviours, and symbols shared by a large group of people, and usually communicated from one generation to the next. cultural groups are characterized by different norms and conventions.
 - cultural norms: 
 - deep culture / surface culture:
 - <u>Hofstede's cultural dimensions</u>: commonly held values of a group or society that affect behaviour

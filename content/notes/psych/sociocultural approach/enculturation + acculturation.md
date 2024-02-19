@@ -16,6 +16,11 @@ title: enculturation + acculturation
 	- **integration**, when individuals want to hold onto traditional values/beliefs, but at the same time desire daily interactions with other cultures
 	- **separation**, actively avoid other cultures and are averse to losing their original culture
 	- **marginalisation**, when individuals have little interest in maintaining their original culture, but also little interest in opening relations with other cultures
+
+|                                        | positive attitude toward global culture | negative attitude toward global culture |
+| -------------------------------------- | --------------------------------------- | --------------------------------------- |
+| positive attitude toward local culture | intergration                                        | separation                                        |
+| negative attitude toward local culture                                       | assimilation                                        | marginalisation                                        |
 ### acculturative stress
 - the psychological impact of adaption or **acculturation** to a new culture. 
 - aka Culture Shock

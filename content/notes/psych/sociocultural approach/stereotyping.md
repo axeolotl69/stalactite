@@ -9,4 +9,3 @@ title: stereotypes
 	- [[notes/psych/cognitive approach/thinking and decision making#system 1|system 1 thinking]]
 	- heuristics
 	- various biases
-- 

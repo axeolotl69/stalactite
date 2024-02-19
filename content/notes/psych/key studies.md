@@ -35,12 +35,19 @@ contents
 [[#BANDURA 1961, bobo dolls]]
 [[#JOY, KIMBALL & ZABRACK 1986, video games and violence]]
 [[#ROSENTHAL AND JACOBSON 1968, teachers and bloomers]]
-[[#BERRY 1967, collectivist or individualist and conformity]]
+[[#BERRY 1967, c vs i and conformity]]
 [[#KULKOFSKY ET AL 2011, c vs i and flashbulb memory]]
 [[#ODDEN AND ROCHAT 2004, samoa and fish]]
 [[#FAGOT 1978, babies and gender roles]]
 [[#MIRANDA AND MATHENY 2000, latino immigrants in usa]]
 [[#LEUCK AND WILSON 2010, asian immigrants s in usa]]
+[[#OGIHARA AND UCHIDA 2014, individualism in japan]]
+[[#ARIELY 2011, globalisation and identity]]
+[[#CHIU et al 2009, exposure to culture]]
+[[#NORASAKKUNKIT AND UCHIDA 2014, hikikomori]]
+[[#WEINSTEIN 1983, optimism bias]]
+[[#ROSEMAN ET AL 1976, type A and heart disease]]
+[[#JESSOR, TURBIN, COSTA 1998, protective/risk factors]]
 
 template (SAQ); 
 **NAME+YEAR**
@@ -143,7 +150,7 @@ for **EVALUATE** erqs use TEACUP
 **weaknesses:** 
 - small sample size
 - internal validity issues; participants were at home for most of the experiment, many extraneous variables
-## CROCKETT et al 2010, trolley dilemma
+ ## CROCKETT et al 2010, trolley dilemma
 #neurotransmission #agonist #biologicalapproach 
 **aim:** to see whether citalopram, an SSRI, affects pro-social behaviour
 **procedure:** 
@@ -200,6 +207,7 @@ for **EVALUATE** erqs use TEACUP
 **strengths:**
 - double blind, indepdendent measures
 **weaknesses:** 
+- sample bad why hetero men only
 ## DE DREU et al 2012, prisoner's dilemma
 #oxytocin #biologicalapproach #hormones 
 **aim:** to investigate the effect of oxytocin on inter-group conflict and out-group conflicts
@@ -925,3 +933,166 @@ for **EVALUATE** erqs use TEACUP
 - interviewer effects 
 - potential demand characteristics
 - all the values measured are subjective
+## OGIHARA AND UCHIDA 2014, individualism in japan
+#globalisation #socioculturalapproach 
+**aim:** to investigate the effect that working in an individualistic workplace would have on the subjective well-being of Japanese women
+**procedure:**
+- sample consisted of 34 adult jpn women who worked for an insurance company where performance/achievement-oriented goals were posted on the walls of the offices
+- participants answered surveys related to individualistic and collectivistic orientation, subjective well-being, nature of their relationships
+**findings:**
+- participants who were achievement-oriented scored lower on subjective well-being and had fewer close friends
+**conclusions:**
+- may be due to transition in jpn where globalisation is promoting individualism in the workplace while the local culture is maintaining traditional collectivistic values
+**strengths:**
+- 
+**weaknesses:** 
+- unable to directly test the causal relationships between individualistic orientation and decrease in number of close friends (bidirectional ambiguity?)
+- survey was used, so potential influence by social desirability in the answers
+## ARIELY 2011, globalisation and identity
+#globalisation #socioculturalapproach 
+**aim:** to examine the effect of globalisation on the relationship between 'constructive patriotism', 'nationalism', and xenophobic attitudes (constructive patriotism: individuals are loyal to their country, able to constructively criticise the country) (nationalism: believes that one's country is better than others and is defensive to criticism)
+**procedure:**
+- cross-sectional survey of over 31 countries
+**findings:**
+- individuals with attitudes associated with constructive patriotism were more tolerant of foreigners
+- participants who were nationalistic had more xenophobic
+- correlation between nationalism and xenophobia is stronger in countries with higher levels of globalisation
+**conclusions:**
+- nationalism is related to exclusionary reactions while constructive patriotism is related to integrative reactions
+- two key reactions to globalisation:
+	- <u>exclusionary reaction</u> negative reaction against another culture bcs of a perceived threat to one's local culture; occurs when identification with local culture is strong
+	- <u>integrative reaction</u> sees other cultures as a resource for problem-solving; occurs when local cultural identification is weak
+**strengths:**
+- cross-cultural validity
+**weaknesses:** 
+- correlational, no cause/effect relationship established, no independent variable is manipulated
+- low ecological validity
+- self-reported, so social desirability bias may influence data
+- doesn't show change over time; can be influenced by current situational factors
+## CHIU et al 2009, exposure to culture
+#globalisation #socioculturalapproach 
+**aim:** to determine if exposing European American participants to another culture would increase their stereotypes about their own culture
+**procedure:**
+- sample was 58 European American undergraduates
+- independent samples
+- single condition; participants shown a Nike sports ad with male Caucasian model
+- join presentation condition; participants saw the same ad placed next to an ad for a Chinese sports shoe with a group of smiling Chinese young men wearing similar clothes and facial expressions
+- both conditions were asked to rate the 'likeability' of the Nike ad
+- participants then took a test to measure attitudes towards dimensions associated w American and Chinese culture
+**findings:**
+- joint presentation condition rated Americans as much more individualistic and having control over their lives, less likely to be collectivistic, less likely to believe in the duty to family, less likely to conform to societal norms
+- results strongest in individuals with high identification with their local identity
+**conclusions:**
+- by being exposed to the two cultures simultaneously, American identity and its values became more salient than for the single condition. 
+- suggest that globalised environment may draw people's attention to their own cultural heritage
+**strengths:**
+**weaknesses:** 
+- low ecological validity
+- only focused on European Americans and Chinese
+## NORASAKKUNKIT AND UCHIDA 2014, hikikomori
+#globalisationandbehaviour #socioculturalapproach 
+**aim:** to investigate the relationship between an individual's attitude towards collectivism and conformity to the risk of hikikomori
+**procedure:**
+- sample of 195 Japanese uni students
+- participants given a standardised test to see whether they were at high or low risk of hikikomori
+- participants given a test to measure their attitudes about social harmony and social conformity
+	- looked at perception of current self, ideal self, and japanese society. measured their sense of local identity. measured sense of global identity.
+**findings:**
+- both groups agreed that social harmony and conformity were highly valued by japanese society
+- when assessing current self/ideal self, high risk hikikomori students ranked social harmony values much lower than low-risk students
+- high risk students scored lower than low risk students on both local and global identity
+**conclusions:**
+- local culture may alienate Japanese youth who then decide not to conform to cultural norms but do not identify with or know how to access the globalised culture so they withdraw from society - identity confusion
+**strengths:**
+- relatively large sample size
+**weaknesses:** 
+- "high risk" participants did not <u>have</u> the disorder
+- no cause/effect can be established
+- bidirectional ambiguity
+- demand characteristics social desirability
+## WEINSTEIN 1983, optimism bias
+#healthpsychology #determinantsofhealth
+**aim:** to investigate the relationship between optimism bias and health protective behaviours
+**procedure:**
+- sample: 88 undergrads (32 male 56 female)
+- filled out a questionnaire about eleven health and safety risks, such as tooth decay, injury in car accident, cancer, diabetes
+- participants then asked to answer question: "compared to other people of your age and sex, what are you chances of getting (the problem) - greater than, about the same, or less than theirs"
+- also asked about their level of worry about the chance of developing said issue
+- experimental; three conditions
+- <u>first condition</u> participants just asked to fill questionnaire
+- <u>second condition (own-risk)</u> before filling in questionnaire participants were given risk factors and told "in some cases these risk factors are well-established; in some it's not clear and they are just possible risk factors". participants asked to assess number of risk factors that applied to them and then filled the questionnaire
+- <u>third condition</u> participants shown the same list of risk factors and told "each of the questions about risk factors has a number which shows response of a typical male/female based on data", then asked to fill questionnaire
+**findings:**
+- second condition (own-risk) felt that they had least chance of developing health problem, least worried of the three groups, least likely to take preventative measures
+- rating oneself on risk factors substantially increased optimistic biases
+- when given info about risk status of peers, optimism bias significantly reduced
+**conclusions:**
+- risk perception is a determinant of health - optimism bias, the lack of perceived risk, decreases the likelihood of taking protective measures against health issues
+**strengths:**
+- standardised questionnaire!
+- three separate conditions
+**weaknesses:** 
+- small and biased sample (only 88, one age group only)
+- correlation not causation!
+## ROSEMAN ET AL 1976, type A and heart disease
+#healthpsychology #determinantsofhealth 
+**aim:** to investigate whether type a personality was correlated with health effects. (type A: competitive, perfectionist, overly committed to work, anger and hostility) (type B: low-stress, flexible, express emotions openly)
+**procedure:**
+- sample: around 3000 employed men aged 39 to 59
+- quasi-experimental, looking at incidence of coronary heart disease over a period of 8.5 years
+**findings:**
+- 257 of participants developed coronary heart disease
+	- 70% of these men were type A
+	- type A nearly twice as likely to develop heart disease as type B
+**conclusions:**
+- coronary heart disease correlated (not caused!) with having type A personality traits
+	- possibly due to cardiovascular reactivity, high in type A
+**strengths:**
+- controlled for variables such as smoking/lifestyle, minimising extraneous variables
+**weaknesses:** 
+- does not account for coping styles for stress
+- external validity; all-male sample, studies with women have shown little correlation
+- assumes type A and type B personalities are valid - they are a little reductionist, humans are more complex than that
+## JESSOR, TURBIN, COSTA 1998, protective/risk factors
+#healthpsychology #protectiveandriskfactors
+**aim:** conducted a longitudinal questionnaire study on protective and risk factors in adolescent health behaviour
+**procedure:**
+- sample: around 1,500 students from middle schools and high schools in the US
+	- 42% hispanic, 33% white non-hispanic, 24% african-american
+- tested sample on level of healthy diet, adequate sleep, regular exercise, good dental hygiene, seatbelt use
+- created "health-enhancing behaviour index" or HEBI
+- <u>proximal risk factors</u> include friends/parents as models of negative behaviours, environmental stress, susceptibility to peer pressure
+- <u>proximal protective factors</u> include friends/parents as good models for health, school health programs
+- <u>distal protective factors</u> are academic performance, religion, relationship with parents/adults, prosocial activities
+**findings:**
+- HEBI correlated positively with socioeconomic status and negatively with age (high hebi = high socioeco and also young, low hebi = older and low socioeco)
+- proximal risk/protective and distal protective factors had a significant relationship with health-related behaviour in adolescents
+**conclusions:**
+- the variables thus to a certain extent valid predictors of health-related behaviour
+**strengths:**
+- replicated study in China and obtained same results - replicability, reliability, cross-cultural validity
+**weaknesses:** 
+- self-reported questionnaire, so social desirability bias may affect results
+## SORENSEN ET AL 1992, danish adopt bmi
+#healthpsychology #protectiveandriskfactors 
+**aim:** to investigate the role of genetics on BMI
+**procedure:**
+- sample: 840 adult Danish adoptees, used as probands (when adoptee develops a behaviour, then compared to birth parents and adoptive family)
+- height and weight used to calculate current and childhood BMI
+- data from birth parents and adoptive family obtained through questionnaires for more BMI calculations
+- questionnaire also given about environmental factors that could contribute to obesity such as age of child and parent at time of adoption, family income, smoking habits
+**findings:**
+- correlations:
+	- bio mother 0.17, bio father 0.16, bio siblings 0.59
+	- adoptive mothers 0.10, adoptive fathers 0.03, adoptive siblings 0.14
+**conclusions:**
+- similar levels of correlation between adoptive and birth parents for current and maximum weight
+- none of environmental factors showed any significant correlation with BMI
+- thus, potential genetic influence
+**strengths:**
+- large sample size thus reliable
+- lack of significant correlation between environmental factors and obesity means more likely it is genetic
+**weaknesses:** 
+- uses BMI which is not considered a good measure of obesity
+- unable to identify which genes specifically affect weight if any
+

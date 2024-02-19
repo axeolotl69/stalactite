@@ -2,11 +2,11 @@
 title: paper 3 guide
 ---
 ## question 1
-| question                                                                               | marks |
-| -------------------------------------------------------------------------------------- | ----- |
-| Identify the research method used, and outline two characteristics of the method       | 3     |
-| Describe the sampling method used in the study                                         | 3     |
-| Suggest an alternative or additional research method giving one reason for your choice | 3     |                                                                                       |       |
+| question | marks |  |  |
+| ---- | ---- | ---- | ---- |
+| Identify the research method used, and outline two characteristics of the method | 3 |  |  |
+| Describe the sampling method used in the study | 3 |  |  |
+| Suggest an alternative or additional research method giving one reason for your choice | 3 |  |  |
 - make sure you link to the study whenever you identify something
 - be specific when identifying method
 ## question 2
